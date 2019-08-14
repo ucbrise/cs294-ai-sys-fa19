@@ -16,21 +16,22 @@ layout: default
 * If you have reading suggestions please send a pull request to this course website on [Github](https://github.com/ucbrise/cs294-ai-sys-sp19) by modifying the [index.md](https://github.com/ucbrise/cs294-ai-sys-sp19/blob/master/index.md) file.
  -->
 
+
 ## Course Description
-<blockquote class="blockquote">
-<p>
+
 The recent success of AI has been in large part due in part to advances in hardware and software systems. These systems have enabled training increasingly complex models on ever larger datasets. In the process, these systems have also simplified model development, enabling the rapid growth in the machine learning community. These new hardware and software systems include a new generation of GPUs and hardware accelerators (e.g., TPU and Nervana), open source frameworks such as Theano, TensorFlow, PyTorch, MXNet, Apache Spark, Clipper, Horovod, and Ray, and a myriad of systems deployed internally at companies just to name a few. 
 At the same time, we are witnessing a flurry of ML/RL applications to improve hardware and system designs, job scheduling, program synthesis, and circuit layouts.  
-</p>
 
-<p>  
 In this course, we will describe the latest trends in systems designs to better support the next generation of AI applications, and applications of AI to optimize the architecture and the performance of systems. 
 The format of this course will be a mix of lectures, seminar-style discussions, and student presentations. 
 Students will be responsible for paper readings, and completing a hands-on project. 
 For projects, we will strongly encourage teams that contains both AI and systems students.
-</p>
-</blockquote>
 
+
+
+## Updated Course Format
+
+A previous version of this course was offered in <a href="https://ucbrise.github.io/cs294-ai-sys-sp19/#today">Spring 2019</a>.  The format of this second offering is slightly different.  Each week will cover a different research area in AI-Systems.  The Monday lecture will be presented by Professor Gonzalez and will cover the context of the topic as well as a high-level overview of the reading for the week.  The Friday lecture will be organized around a mini program committee meeting for the weeks readings.  Students will be required to submit detailed reviews for a subset of the papers and lead the paper review discussions.  The goal of this new format is to both build a mastery of the material and also to develop a deeper understanding of how to evaluate and review research and hopefully provide insight into how to write better papers. 
 
 
 ## Course Syllabus
@@ -91,12 +92,6 @@ This is a tentative schedule.  Specific readings are subject to change as new ma
 <tbody>
 
 
-
-
-
-
-
-
 {% include syllabus_entry %}
 ## Introduction and Course Overview
 
@@ -104,11 +99,139 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 
 
+<!-- {% include syllabus_entry %}
+## Metrics and Characteristics of ML Systems
+
+{% include syllabus_entry %}
+## How to Write and Evaluate ML Systems Papers -->
+
+
+
+{% include syllabus_entry %}
+## Machine Learning Life-cycle 
+
+{% include syllabus_entry %}
+## Discussion of Papers on Machine Learning Life-cycle
+
+
+
+{% include syllabus_entry %}
+## Database Systems and Machine Learning
+
+{% include syllabus_entry %}
+## Discussion of Database Systems and Machine Learning
+
+
+
+{% include syllabus_entry %}
+## Prediction Serving
+
+{% include syllabus_entry %}
+## Discussion of Prediction Serving
+
+
+
+
+{% include syllabus_entry %}
+## Model Development and Training Frameworks
+
+{% include syllabus_entry %}
+## Discussion of Model Development and Training Frameworks
+
+
+
+{% include syllabus_entry %}
+## Distributed Model Training
+
+{% include syllabus_entry %}
+## Discussion of Distributed Model Training
+
+
+<!-- 
+
+{% include syllabus_entry %}
+## Federated Machine Learning
+
+{% include syllabus_entry %}
+## Discussion of Federated Machine Learning
+
+ -->
+
+{% include syllabus_entry %}
+## Model Compilation
+
+{% include syllabus_entry %}
+## Discussion of Model Compilation
+
+
+
+
+{% include syllabus_entry %}
+## Hardware Acceleration for Machine Learning
+
+{% include syllabus_entry %}
+## Discussion Hardware Acceleration for Machine Learning
 
 
 
 
 
+{% include syllabus_entry %}
+## Machine Learning Applied to Systems
+
+{% include syllabus_entry %}
+## Discussion of Machine Learning Applied to Systems
+
+
+
+
+
+
+
+{% include syllabus_entry %}
+# (11/11) Administrative Holiday
+
+{% include syllabus_entry %}
+## Project Presentations
+
+
+
+{% include syllabus_entry %}
+## Secure / Coopetitive Machine Learning
+
+{% include syllabus_entry %}
+## Discussion on Secure ML
+
+
+
+
+
+{% include syllabus_entry %}
+## Application Area: Autonomous Driving
+
+
+{% include syllabus_entry %}
+# (11/29) Holiday (Thanksgiving)
+
+
+
+
+
+{% include syllabus_entry %}
+## Conclusion!
+
+
+{% include syllabus_entry %}
+# (12/6) RRR Week
+
+{% include syllabus_entry %}
+# (12/9) RRR Week
+
+{% include syllabus_entry %}
+# (12/6) Exams
+
+{% include syllabus_entry %}
+# (12/16) Poster Presentation
 
 
 
