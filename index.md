@@ -95,15 +95,59 @@ This is a tentative schedule.  Specific readings are subject to change as new ma
 {% include syllabus_entry %}
 ## Introduction and Course Overview
 
-This lecture will be an overview of the class, requirements, and an introduction to what makes great AI-Systems research.
+This lecture will be an overview of the class, requirements, and an introduction to the history of machine learning and systems research. 
 
-
-
-<!-- {% include syllabus_entry %}
-## Metrics and Characteristics of ML Systems
 
 {% include syllabus_entry %}
-## How to Write and Evaluate ML Systems Papers -->
+# Holiday (Labor Day) 
+
+There will be no class but please sign up for the weekly discussion slots.
+
+
+
+
+
+
+
+{% include syllabus_entry %}
+## Big Ideas and How to Evaluate ML Systems Research
+
+This lecture will review the big concepts in systems and machine learning and then discuss how to evaluate ML Systems research.  
+
+<!-- <div class="details" markdown="1"> 
+
+something somehting 
+
+</div>
+ -->
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+
+* [SysML: The New Frontier of Machine Learning Systems](https://arxiv.org/abs/1904.03257)
+* Read Chapter 1 of [_Principles of Computer System Design_](https://www.sciencedirect.com/book/9780123749574/principles-of-computer-system-design). You will need to be on campus or use the Library VPN to obtain a free PDF.
+* [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+* [A Berkeley View of Systems Challenges for AI](A Berkeley View of Systems Challenges for AI)
+
+
+</div>
+<div class="optional_reading" markdown="1">
+
+### Additional Machine Learning Reading
+
+* [Kevin Murphy's Textbook Introduction to Machine Learning](https://www.cs.ubc.ca/~murphyk/MLbook/pml-intro-22may12.pdf).  This provides a very high-level overview of machine learning.  You should probably know all of this. 
+* [Principles of Computer System Design: An Introduction](https://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/part_ii_open_5_0.pdf).  Chapter 1 of this book gives a good summary of Lampson's article.
+* [Stanford CS231n Tutorial on Neural Networks](http://cs231n.github.io/). I recommend reading Module 1 for a quick crash course in machine learning and some of the techniques used in this class.
+
+### Additional Systems Reading
+
+* [Hints for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)
+
+
+</div>
+</div>
+
+
 
 
 
@@ -147,15 +191,13 @@ This lecture will be an overview of the class, requirements, and an introduction
 ## Discussion of Distributed Model Training
 
 
-<!-- 
 
 {% include syllabus_entry %}
-## Federated Machine Learning
+## Application Area: Autonomous Driving
 
 {% include syllabus_entry %}
-## Discussion of Federated Machine Learning
+# Project Presentations
 
- -->
 
 {% include syllabus_entry %}
 ## Model Compilation
@@ -192,7 +234,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 # (11/11) Administrative Holiday
 
 {% include syllabus_entry %}
-## Project Presentations
+## TBD
 
 
 
@@ -207,7 +249,7 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 
 {% include syllabus_entry %}
-## Application Area: Autonomous Driving
+## TBD
 
 
 {% include syllabus_entry %}
@@ -311,6 +353,20 @@ $(".reading").each(function(ind, elem) {
    
 })
 
+
+$(".details").each(function(ind, elem) {
+      elem.setAttribute("id", "details_" + ind);
+      var button = document.createElement("button");
+      button.setAttribute("class", "btn btn-primary btn-sm");
+      button.setAttribute("type", "button");
+      button.setAttribute("data-toggle", "collapse");
+      button.setAttribute("data-target", "#details_" + ind);
+      button.setAttribute("aria-expanded", "false");
+      button.setAttribute("aria-controls", "#details_" + ind);
+      elem.setAttribute("class", "details_no_heading collapse")
+      button.innerHTML = "Detailed Description";
+      elem.before(button)
+   })
 
 </script>
 
