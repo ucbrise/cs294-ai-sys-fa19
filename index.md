@@ -215,6 +215,8 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 
 
 
+
+
 {% include syllabus_entry %}
 ## Distributed Model Training
 
@@ -223,8 +225,32 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 
 
 
+
+
+
 {% include syllabus_entry %}
 ## Prediction Serving
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+
+* [TensorFlow-Serving: Flexible, High-Performance ML Serving](https://arxiv.org/abs/1712.06139)
+* [InferLine: ML Inference Pipeline Composition Framework](https://arxiv.org/pdf/1812.01776.pdf)
+* [Pretzel: Opening the Black Box of Machine Learning Prediction Serving Systems](https://www.usenix.org/system/files/osdi18-lee.pdf)
+
+
+</div>
+<div class="optional_reading" markdown="1">
+
+* [Clipper: A Low-Latency Online Prediction Serving System](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-crankshaw.pdf)
+* [Deep Learning Inference in Facebook Data Centers: Characterization, Performance Optimizations and Hardware Implications](https://arxiv.org/abs/1811.09886)
+
+
+
+</div>
+</div>
+
+
 
 {% include syllabus_entry %}
 ## Discussion of Prediction Serving
