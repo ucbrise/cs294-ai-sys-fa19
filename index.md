@@ -116,7 +116,7 @@ This lecture will review the big concepts in systems and machine learning and th
 
 <!-- <div class="details" markdown="1"> 
 
-something somehting 
+Add more discussion
 
 </div>
  -->
@@ -143,27 +143,83 @@ something somehting
 
 * [Hints for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)
 
-
 </div>
 </div>
 
 
 
 
-
-{% include syllabus_entry %}
-## Machine Learning Life-cycle 
-
-{% include syllabus_entry %}
-## Discussion of Papers on Machine Learning Life-cycle
 
 
 
 {% include syllabus_entry %}
 ## Database Systems and Machine Learning
 
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+
+* [Towards a Unified Architecture for in-RDBMS Analytics](https://www.cs.stanford.edu/people/chrismre/papers/bismarck.pdf)
+* [Materialization Optimizations for Feature Selection Workloads](https://cs.stanford.edu/people/chrismre/papers/mod539-zhang.pdf)
+* [Learning Generalized Linear Models Over Normalized Data](http://pages.cs.wisc.edu/~jignesh/publ/GLMs-over-joins.pdf)
+
+
+</div>
+<div class="optional_reading" markdown="1">
+
+* [Learning Linear Regression Models over Factorized Joins](Learning Linear Regression Models over Factorized Joins
+)
+* [MauveDB: Supporting Model-based User Views in Database Systems](http://db.csail.mit.edu/pubs/sigmod06-mauvedb.pdf)
+
+</div>
+</div>
+
 {% include syllabus_entry %}
 ## Discussion of Database Systems and Machine Learning
+
+
+
+
+
+
+
+
+
+{% include syllabus_entry %}
+## Model Development and Training Frameworks
+
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+
+* [TensorFlow: A System for Large-Scale Machine Learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
+* [KeystoneML: Optimizing Pipelines for Large-Scale
+Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
+* [SystemML: Declarative Machine Learning on Spark](http://www.vldb.org/pvldb/vol9/p1425-boehm.pdf)
+
+</div>
+<div class="optional_reading" markdown="1">
+
+* [Caffe: Convolutional Architecture for Fast Feature Embedding](https://arxiv.org/pdf/1408.5093.pdf)
+* [Theano: A Python Framework for Fast Computation of Mathematical Expressions](https://arxiv.org/pdf/1605.02688.pdf)
+* [cuDNN: Efficient Primitives for Deep Learning](https://arxiv.org/pdf/1410.0759.pdf)
+* [Roger Grosse's Lecture Notes on Automatic Differentiation](http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/readings/L06%20Automatic%20Differentiation.pdf)
+
+</div>
+</div>
+
+
+
+{% include syllabus_entry %}
+## Discussion of Model Development and Training Frameworks
+
+
+
+{% include syllabus_entry %}
+## Distributed Model Training
+
+{% include syllabus_entry %}
+## Discussion of Distributed Model Training
 
 
 
@@ -176,19 +232,40 @@ something somehting
 
 
 
-{% include syllabus_entry %}
-## Model Development and Training Frameworks
-
-{% include syllabus_entry %}
-## Discussion of Model Development and Training Frameworks
-
 
 
 {% include syllabus_entry %}
-## Distributed Model Training
+## Machine Learning Life-cycle 
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+
+* [Machine Learning: The High-Interest Credit Card of Technical Debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf)
+* [TFX: A TensorFlow-Based Production-Scale Machine Learning Platform](https://ai.google/research/pubs/pub46484.pdf)
+* [Towards Unified Data and Lifecycle Management for Deep Learning](https://arxiv.org/pdf/1611.06224.pdf)
+
+</div>
+<div class="optional_reading" markdown="1">
+
+* [Software 2.0 Blog Post](https://medium.com/@karpathy/software-2-0-a64152b37c35)
+* [On Challenges in Machine Learning Model Management](http://sites.computer.org/debull/A18dec/p5.pdf)
+
+</div>
+</div>
+
+
 
 {% include syllabus_entry %}
-## Discussion of Distributed Model Training
+## Discussion of Papers on Machine Learning Life-cycle
+
+
+
+
+
+
+
+
+
 
 
 
