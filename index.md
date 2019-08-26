@@ -153,6 +153,38 @@ Add more discussion
 
 
 {% include syllabus_entry %}
+## Machine Learning Life-cycle 
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+
+* [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
+* [TFX: A TensorFlow-Based Production-Scale Machine Learning Platform](https://ai.google/research/pubs/pub46484.pdf)
+* [Towards Unified Data and Lifecycle Management for Deep Learning](https://arxiv.org/pdf/1611.06224.pdf)
+
+</div>
+<div class="optional_reading" markdown="1">
+
+* [Software 2.0 Blog Post](https://medium.com/@karpathy/software-2-0-a64152b37c35)
+* [On Challenges in Machine Learning Model Management](http://sites.computer.org/debull/A18dec/p5.pdf)
+
+</div>
+</div>
+
+
+
+{% include syllabus_entry %}
+## Discussion of Papers on Machine Learning Life-cycle
+
+
+
+
+
+
+
+
+
+{% include syllabus_entry %}
 ## Database Systems and Machine Learning
 
 
@@ -185,9 +217,12 @@ Add more discussion
 
 
 
+
+
+
+
 {% include syllabus_entry %}
 ## Model Development and Training Frameworks
-
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -217,11 +252,40 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 
 
 
+
+
+
+
 {% include syllabus_entry %}
 ## Distributed Model Training
 
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+
+* [Scaling Distributed Machine Learning with the Parameter Server](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf)
+* [Scaling Distributed Machine Learning with In-Network Aggregation](https://arxiv.org/pdf/1903.06701.pdf)
+* [Adaptive Communication Strategies to Achieve the Best Error-Runtime Trade-off in Local-Update SGD](https://arxiv.org/pdf/1810.08313.pdf) 
+
+
+</div>
+<div class="optional_reading" markdown="1">
+
+* [Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf)[[pdf](assets/lectures/lec17/hogwild_final.pdf)]
+* [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677)
+* [Large Scale Distributed Deep Networks](https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf)
+
+
+</div>
+</div>
+
+
 {% include syllabus_entry %}
 ## Discussion of Distributed Model Training
+
+
+
+
 
 
 
@@ -245,8 +309,6 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 * [Clipper: A Low-Latency Online Prediction Serving System](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-crankshaw.pdf)
 * [Deep Learning Inference in Facebook Data Centers: Characterization, Performance Optimizations and Hardware Implications](https://arxiv.org/abs/1811.09886)
 
-
-
 </div>
 </div>
 
@@ -257,32 +319,6 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 
 
 
-
-
-
-{% include syllabus_entry %}
-## Machine Learning Life-cycle 
-
-<div class="reading">
-<div class="required_reading" markdown="1">
-
-* [Machine Learning: The High-Interest Credit Card of Technical Debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf)
-* [TFX: A TensorFlow-Based Production-Scale Machine Learning Platform](https://ai.google/research/pubs/pub46484.pdf)
-* [Towards Unified Data and Lifecycle Management for Deep Learning](https://arxiv.org/pdf/1611.06224.pdf)
-
-</div>
-<div class="optional_reading" markdown="1">
-
-* [Software 2.0 Blog Post](https://medium.com/@karpathy/software-2-0-a64152b37c35)
-* [On Challenges in Machine Learning Model Management](http://sites.computer.org/debull/A18dec/p5.pdf)
-
-</div>
-</div>
-
-
-
-{% include syllabus_entry %}
-## Discussion of Papers on Machine Learning Life-cycle
 
 
 
@@ -309,14 +345,20 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 <div class="required_reading" markdown="1">
 
 * [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://arxiv.org/abs/1802.04799)
-* [TensorComprehensions](https://arxiv.org/abs/1802.04730)
+* [Optimizing DNN Computation with Relaxed Graph Substitutions](https://www.sysml.cc/doc/2019/22.pdf)
+* [Supporting Very Large Models using Automatic Dataflow Graph Partitioning](https://arxiv.org/pdf/1807.08887.pdf)
 
 </div>
 <div class="optional_reading" markdown="1">
 
 * [Learning to Optimize Tensor Programs](https://arxiv.org/abs/1805.08166): The TVM story is two fold. There's a System for ML story (above paper) and this paper is their the ML for System story.
-* [Optimizing DNN Computations with Relaxed Graph Substitutions](https://www.sysml.cc/doc/2019/22.pdf)
 * [Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks](http://proceedings.mlr.press/v80/jia18a/jia18a.pdf)
+* [TensorComprehensions](https://arxiv.org/abs/1802.04730)
+
+<!-- 
+* `TVM: An Automated End-to-End Optimizing Compiler for Deep Learning <papers/tvm.pdf>`_
+       * `Supporting Very Large Models using Automatic Dataflow Graph Partitioning <papers/tofu.pdf>`_
+       * `Astra: Exploiting Predictability to Optimize Deep Learning <papers/astra.pdf>`_ -->
 
 </div>
 </div>
@@ -328,8 +370,19 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 
 
 
+
+
 {% include syllabus_entry %}
 ## Hardware Acceleration for Machine Learning
+<!-- 
+* `Eyeriss: A Spatial Architecture for Energy-Efficient Dataflowfor Convolutional Neural Networks <papers/eyeriss.pdf>`_
+       * `Plasticine: A Reconfigurable Architecture For Parallel Patterns <papers/plasticine.pdf>`_
+       * `In-Datacenter Performance Analysis of a Tensor Processing Unit <papers/tpu.pdf>`_
+
+       *Optional*
+
+       * `Efficient Processing of Deep Neural Networks: A Tutorial and Survey <papers/eff-dnn.pdf>`_
+ -->
 
 {% include syllabus_entry %}
 ## Discussion Hardware Acceleration for Machine Learning
@@ -340,6 +393,26 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 
 {% include syllabus_entry %}
 ## Machine Learning Applied to Systems
+
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+
+* [Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/Resource-Central-SOSP17.pdf)
+* [Device Placement Optimization with Reinforcement Learning](https://arxiv.org/pdf/1706.04972.pdf)
+* [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208)
+
+</div>
+<div class="optional_reading" markdown="1">
+
+* [Quasar: Resource-Efficient and QoS-Aware Cluster Management](http://www.csl.cornell.edu/~delimitrou/papers/2014.asplos.quasar.pdf)
+
+</div>
+</div>
+
+
+
+
 
 {% include syllabus_entry %}
 ## Discussion of Machine Learning Applied to Systems
@@ -353,8 +426,6 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 {% include syllabus_entry %}
 # (11/11) Administrative Holiday
 
-{% include syllabus_entry %}
-## TBD
 
 
 
@@ -368,8 +439,18 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 
 
 
+
+
+
 {% include syllabus_entry %}
-## TBD
+## Debugging and Interoperability  
+
+
+{% include syllabus_entry %}
+## Debugging and Interoperability Discussion
+
+
+
 
 
 {% include syllabus_entry %}
