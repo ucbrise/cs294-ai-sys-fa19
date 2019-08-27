@@ -443,11 +443,11 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 
 
 {% include syllabus_entry %}
-## Debugging and Interoperability  
+## Debugging and Interpretability   
 
 
 {% include syllabus_entry %}
-## Debugging and Interoperability Discussion
+## Debugging and Interpretability Discussion
 
 
 
