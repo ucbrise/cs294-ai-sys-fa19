@@ -155,6 +155,10 @@ Add more discussion
 {% include syllabus_entry %}
 ## Machine Learning Life-cycle 
 
+
+{% include syllabus_entry %}
+## Discussion of Papers on Machine Learning Life-cycle
+
 <div class="reading">
 <div class="required_reading" markdown="1">
 
@@ -173,19 +177,17 @@ Add more discussion
 
 
 
-{% include syllabus_entry %}
-## Discussion of Papers on Machine Learning Life-cycle
-
-
-
-
-
 
 
 
 
 {% include syllabus_entry %}
 ## Database Systems and Machine Learning
+
+
+
+{% include syllabus_entry %}
+## Discussion of Database Systems and Machine Learning
 
 
 <div class="reading">
@@ -206,11 +208,6 @@ Add more discussion
 </div>
 </div>
 
-{% include syllabus_entry %}
-## Discussion of Database Systems and Machine Learning
-
-
-
 
 
 
@@ -223,6 +220,11 @@ Add more discussion
 
 {% include syllabus_entry %}
 ## Model Development and Training Frameworks
+
+
+
+{% include syllabus_entry %}
+## Discussion of Model Development and Training Frameworks
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -245,19 +247,17 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 
 
 
-{% include syllabus_entry %}
-## Discussion of Model Development and Training Frameworks
-
-
-
-
-
 
 
 
 
 {% include syllabus_entry %}
 ## Distributed Model Training
+
+
+
+{% include syllabus_entry %}
+## Discussion of Distributed Model Training
 
 
 <div class="reading">
@@ -280,12 +280,6 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 </div>
 
 
-{% include syllabus_entry %}
-## Discussion of Distributed Model Training
-
-
-
-
 
 
 
@@ -294,6 +288,12 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 
 {% include syllabus_entry %}
 ## Prediction Serving
+
+
+
+
+{% include syllabus_entry %}
+## Discussion of Prediction Serving
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -314,13 +314,6 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 
 
 
-{% include syllabus_entry %}
-## Discussion of Prediction Serving
-
-
-
-
-
 
 
 
@@ -334,12 +327,19 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 {% include syllabus_entry %}
 ## Application Area: Autonomous Driving
 
+
+
 {% include syllabus_entry %}
 # Project Presentations
 
 
 {% include syllabus_entry %}
 ## Model Compilation
+
+
+{% include syllabus_entry %}
+## Discussion of Model Compilation
+
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -364,9 +364,6 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 </div>
 
 
-{% include syllabus_entry %}
-## Discussion of Model Compilation
-
 
 
 
@@ -374,18 +371,31 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 
 {% include syllabus_entry %}
 ## Hardware Acceleration for Machine Learning
-<!-- 
-* `Eyeriss: A Spatial Architecture for Energy-Efficient Dataflowfor Convolutional Neural Networks <papers/eyeriss.pdf>`_
-       * `Plasticine: A Reconfigurable Architecture For Parallel Patterns <papers/plasticine.pdf>`_
-       * `In-Datacenter Performance Analysis of a Tensor Processing Unit <papers/tpu.pdf>`_
 
-       *Optional*
 
-       * `Efficient Processing of Deep Neural Networks: A Tutorial and Survey <papers/eff-dnn.pdf>`_
- -->
 
 {% include syllabus_entry %}
 ## Discussion Hardware Acceleration for Machine Learning
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+
+* [A Configurable Cloud-Scale DNN Processor for Real-Time AI](https://www.microsoft.com/en-us/research/uploads/prod/2018/06/ISCA18-Brainwave-CameraReady.pdf)
+* [In-Datacenter Performance Analysis of a Tensor Processing Unit](https://arxiv.org/pdf/1704.04760.pdf)
+* [Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks](http://www.rle.mit.edu/eems/wp-content/uploads/2016/04/eyeriss_isca_2016.pdf)
+
+
+</div>
+<div class="optional_reading" markdown="1">
+
+* [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://arxiv.org/pdf/1703.09039.pdf)
+
+
+</div>
+</div>
+
+
+ 
 
 
 
@@ -394,6 +404,12 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 {% include syllabus_entry %}
 ## Machine Learning Applied to Systems
 
+
+
+
+
+{% include syllabus_entry %}
+## Discussion of Machine Learning Applied to Systems Day 1
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -405,18 +421,11 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 </div>
 <div class="optional_reading" markdown="1">
 
-* [Quasar: Resource-Efficient and QoS-Aware Cluster Management](http://www.csl.cornell.edu/~delimitrou/papers/2014.asplos.quasar.pdf)
+* [Quasar: Resource-Efficient and QoS-Aware Cluster Management](http://www.csl.cornell.edu/~delimitrou papers/2014.asplos.quasar.pdf)
+
 
 </div>
 </div>
-
-
-
-
-
-{% include syllabus_entry %}
-## Discussion of Machine Learning Applied to Systems
-
 
 
 
@@ -427,15 +436,50 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 # (11/11) Administrative Holiday
 
 
+{% include syllabus_entry %}
+## Discussion of Machine Learning Applied to Systems Day 2
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+
+* [AuTO: Scaling Deep Reinforcement Learning to Enable Datacenter-Scale Automatic Traffic Optimization](https://conferences.sigcomm.org/events/apnet2018/papers/auto.pdf)
+* [Neural Adaptive Video Streaming with Pensieve](https://people.csail.mit.edu/hongzi/content/publications/Pensieve-Sigcomm17.pdf)  
+* [Neural Adaptive Content-aware Internet Video Delivery](https://www.usenix.org/system/files/osdi18-yeo.pdf)
+
+</div>
+<div class="optional_reading" markdown="1">
+
+
+</div>
+</div>
+
 
 
 {% include syllabus_entry %}
-## Secure / Coopetitive Machine Learning
+## Secure ML
+
+
+
 
 {% include syllabus_entry %}
 ## Discussion on Secure ML
 
+<div class="reading">
+<div class="required_reading" markdown="1">
 
+* [SecureML: A System for Scalable Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/396.pdf)
+* [Rendered Insecure: GPU Side Channel Attacks are Practical](https://www.cs.ucr.edu/~zhiyunq/pub/ccs18_gpu_side_channel.pdf)
+* [Gazelle: A Low Latency Framework for Secure Neural Network Inference](https://arxiv.org/abs/1801.05507)
+
+</div>
+<div class="optional_reading" markdown="1">
+   
+* [Helen: Maliciously Secure Coopetitive Learning for Linear Models](https://people.eecs.berkeley.edu/~wzheng/helen_ieeesp.pdf)
+* [Faster CryptoNets: Leveraging Sparsity for Real-World Encrypted Inference](https://arxiv.org/abs/1811.09953)
+* [Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware](https://arxiv.org/abs/1806.03287)
+
+</div>
+</div>
 
 
 
@@ -443,11 +487,9 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 
 
 {% include syllabus_entry %}
-## Debugging and Interpretability   
+## Debugging, Monitoring, and Interpretability   
 
 
-{% include syllabus_entry %}
-## Debugging and Interpretability Discussion
 
 
 
@@ -457,6 +499,10 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 # (11/29) Holiday (Thanksgiving)
 
 
+
+
+{% include syllabus_entry %}
+## Discussion on Debugging, Monitoring, and Interpretability   
 
 
 
