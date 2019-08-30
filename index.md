@@ -95,11 +95,14 @@ This is a tentative schedule.  Specific readings are subject to change as new ma
 
 This lecture will be an overview of the class, requirements, and an introduction to the history of machine learning and systems research. 
 
+* Lecture slides: [[pdf](assets/lectures/lec01/01_ai-sys-intro-small.pdf), [pptx](assets/lectures/lec01/01_ai-sys-intro.pptx)]
+
+
 
 {% include syllabus_entry %}
 # Holiday (Labor Day) 
 
-There will be no class but please sign up for the weekly discussion slots.
+There will be no class but please [sign-up](https://docs.google.com/spreadsheets/d/1EEf58o80eVCgPZmj71oBYRBcSVWsr7OMn9rOx6X9bnY/edit?usp=sharing) for the weekly discussion slots.
 
 
 
@@ -110,7 +113,9 @@ There will be no class but please sign up for the weekly discussion slots.
 {% include syllabus_entry %}
 ## Big Ideas and How to Evaluate ML Systems Research
 
-This lecture will review the big concepts in systems and machine learning and then discuss how to evaluate ML Systems research.  
+
+* [Submit your review](https://forms.gle/t6roBpS2QVPXn4zt6) before 1:00PM.
+* Lecture slides: Coming Soon!
 
 <!-- <div class="details" markdown="1"> 
 
