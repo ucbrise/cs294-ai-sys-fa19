@@ -8,13 +8,12 @@ layout: default
 * **When**: *Mondays and Fridays from 2:00 to 3:30*
 * **Where**: *Soda 310*
 * **Instructor**: [Joseph E. Gonzalez](https://eecs.berkeley.edu/~jegonzal)
+   * **Ofice Hours:** Wednesdays from 3:30 to 4:30 in 773 Soda Hall.
 * **Announcements**: [Piazza](https://piazza.com/class/jz1seb32ovq4p2)
+* **Sign-up to Present**: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1EEf58o80eVCgPZmj71oBYRBcSVWsr7OMn9rOx6X9bnY/edit?usp=sharing) Every student should sign-up to present in at least three rows and as different roles each time.  Note that the Backup/Scribe presenter may be asked to fill in for one of the other roles with little notice.
+* **Project Ideas**: Coming soon!
+* If you have reading suggestions please send a pull request to this course website on [Github](https://github.com/ucbrise/cs294-ai-sys-sp19) by modifying the [index.md](https://github.com/ucbrise/cs294-ai-sys-fa19/blob/master/index.md) file.
 
-<!-- * **Sign-up to Present**: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1NLLVPh8QioXRtzYEKc3XjtJMLqbT8WMMQ27bQz8lSJI/edit?usp=sharing
-)
-* **Project Ideas**: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/16Oz8ZJ0x1AdukWQxq7QYdzkzoVH70vbhtSOGlJ_EFKc/edit#gid=0)
-* If you have reading suggestions please send a pull request to this course website on [Github](https://github.com/ucbrise/cs294-ai-sys-sp19) by modifying the [index.md](https://github.com/ucbrise/cs294-ai-sys-sp19/blob/master/index.md) file.
- -->
 
 
 ## Course Description
@@ -29,13 +28,12 @@ For projects, we will strongly encourage teams that contains both AI and systems
 
 
 
-## Updated Course Format
+## New Course Format
 
 A previous version of this course was offered in <a href="https://ucbrise.github.io/cs294-ai-sys-sp19/#today">Spring 2019</a>.  The format of this second offering is slightly different.  Each week will cover a different research area in AI-Systems.  The Monday lecture will be presented by Professor Gonzalez and will cover the context of the topic as well as a high-level overview of the reading for the week.  The Friday lecture will be organized around a mini program committee meeting for the weeks readings.  Students will be required to submit detailed reviews for a subset of the papers and lead the paper review discussions.  The goal of this new format is to both build a mastery of the material and also to develop a deeper understanding of how to evaluate and review research and hopefully provide insight into how to write better papers. 
 
 
 ## Course Syllabus
-
 
 
 
