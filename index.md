@@ -139,7 +139,6 @@ Add more discussion
 ### Additional Machine Learning Reading
 
 * [Kevin Murphy's Textbook Introduction to Machine Learning](https://www.cs.ubc.ca/~murphyk/MLbook/pml-intro-22may12.pdf).  This provides a very high-level overview of machine learning.  You should probably know all of this. 
-* [Principles of Computer System Design: An Introduction](https://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/part_ii_open_5_0.pdf).  Chapter 1 of this book gives a good summary of Lampson's article.
 * [Stanford CS231n Tutorial on Neural Networks](http://cs231n.github.io/). I recommend reading Module 1 for a quick crash course in machine learning and some of the techniques used in this class.
 
 ### Additional Systems Reading
