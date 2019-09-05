@@ -12,7 +12,7 @@ layout: default
 * **Announcements**: [Piazza](https://piazza.com/class/jz1seb32ovq4p2)
 * **Sign-up to Present**: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1EEf58o80eVCgPZmj71oBYRBcSVWsr7OMn9rOx6X9bnY/edit?usp=sharing) Every student should sign-up to present in at least three rows and as different roles each time.  Note that the Backup/Scribe presenter may be asked to fill in for one of the other roles with little notice.
 * **Project Ideas**: Coming soon!
-* If you have reading suggestions please send a pull request to this course website on [Github](https://github.com/ucbrise/cs294-ai-sys-sp19) by modifying the [index.md](https://github.com/ucbrise/cs294-ai-sys-fa19/blob/master/index.md) file.
+* If you have reading suggestions please send a pull request to this course website on [Github](https://github.com/ucbrise/cs294-ai-sys-fa19) by modifying the [index.md](https://github.com/ucbrise/cs294-ai-sys-fa19/blob/master/index.md) file.
 
 
 
@@ -130,7 +130,7 @@ Add more discussion
 * [SysML: The New Frontier of Machine Learning Systems](https://arxiv.org/abs/1904.03257)
 * Read Chapter 1 of [_Principles of Computer System Design_](https://www.sciencedirect.com/book/9780123749574/principles-of-computer-system-design). You will need to be on campus or use the Library VPN to obtain a free PDF.
 * [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
-* [A Berkeley View of Systems Challenges for AI](A Berkeley View of Systems Challenges for AI)
+* [A Berkeley View of Systems Challenges for AI](https://arxiv.org/pdf/1712.05855.pdf)
 
 
 </div>
