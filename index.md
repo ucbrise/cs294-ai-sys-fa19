@@ -115,7 +115,8 @@ There will be no class but please [sign-up](https://docs.google.com/spreadsheets
 
 
 * [Submit your review](https://forms.gle/t6roBpS2QVPXn4zt6) before 1:00PM.
-* Lecture slides: Coming Soon!
+* Lecture slides: [[pdf](assets/lectures/lec02/02_ai-sys-big-ideas_v2.pdf), [pptx](assets/lectures/lec02/02_ai-sys-big-ideas_v2.pptx)]
+
 
 <!-- <div class="details" markdown="1"> 
 
