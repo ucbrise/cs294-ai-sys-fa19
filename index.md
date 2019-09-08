@@ -171,7 +171,9 @@ Add more discussion
 
 </div>
 <div class="optional_reading" markdown="1">
-
+	
+* [Context: The Missing Piece in the Machine Learning
+Lifecycle](https://rlnsanz.github.io/dat/Flor_CMI_18_CameraReady.pdf)
 * [Software 2.0 Blog Post](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 * [On Challenges in Machine Learning Model Management](http://sites.computer.org/debull/A18dec/p5.pdf)
 
