@@ -146,6 +146,11 @@ Add more discussion
 
 * [Hints for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)
 
+### Open Debate about the Field
+
+* Rich Sutton's [Post on Compute in ML](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) and the corresponding [Shimon Whiteson twitter debate](https://twitter.com/shimon8282/status/1106534178676506624?lang=en)
+
+
 </div>
 </div>
 
@@ -158,9 +163,17 @@ Add more discussion
 {% include syllabus_entry %}
 ## Machine Learning Life-cycle 
 
+This lecture will discuss the machine learning life-cycle, spanning model development, training, and serving.  It will outline some of the technical machine learning and systems challenges at each stage and how these challenges interact.
+
+* Lecture slides: [[pdf](assets/lectures/lec03/03_ml-lifecycle.pdf), [pptx](assets/lectures/lec03/03_ml-lifecycle.pptx)]
+
 
 {% include syllabus_entry %}
 ## Discussion of Papers on Machine Learning Life-cycle
+
+
+* [Submit your review](https://forms.gle/uRfHTWH86dee2WTd7) before 1:00PM.
+
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -171,11 +184,19 @@ Add more discussion
 
 </div>
 <div class="optional_reading" markdown="1">
-	
+* [Data Engineering Bulletin: Machine Learning Life-cycle Management](http://sites.computer.org/debull/A18dec/issue1.htm)
 * [Context: The Missing Piece in the Machine Learning
 Lifecycle](https://rlnsanz.github.io/dat/Flor_CMI_18_CameraReady.pdf)
 * [Software 2.0 Blog Post](https://medium.com/@karpathy/software-2-0-a64152b37c35)
-* [On Challenges in Machine Learning Model Management](http://sites.computer.org/debull/A18dec/p5.pdf)
+* [Doing Machine Learning the Uber Way: Five Lessons From the First Three Years of Michelangelo](https://towardsdatascience.com/doing-machine-learning-the-uber-way-five-lessons-from-the-first-three-years-of-michelangelo-da584a857cc2)
+* [Introducing FBLearner Flow: Facebook’s AI backbone](https://engineering.fb.com/core-data/introducing-fblearner-flow-facebook-s-ai-backbone/)
+* [DeepBird: Twitters ML Deployment Framework](https://blog.twitter.com/engineering/en_us/topics/insights/2018/twittertensorflow.html)
+* [Demonstration of Mlflow: A System to Accelerate the Machine Learning Lifecycle](https://www.sysml.cc/doc/2019/demo_33.pdf)
+
+### Software:
+* [KubeFlow: Kubernetes Pipeline Orchestration Framework](https://www.kubeflow.org/)
+* [MLflow](https://mlflow.org)
+
 
 </div>
 </div>
