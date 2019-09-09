@@ -392,6 +392,8 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 * [Learning to Optimize Tensor Programs](https://arxiv.org/abs/1805.08166): The TVM story is two fold. There's a System for ML story (above paper) and this paper is their the ML for System story.
 * [Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks](http://proceedings.mlr.press/v80/jia18a/jia18a.pdf)
 * [TensorComprehensions](https://arxiv.org/abs/1802.04730)
+* [JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs](https://www.usenix.org/conference/nsdi19/presentation/jeong)
+* [MLIR Primer: A Compiler Infrastructure for the End of Moore’s Law](https://ai.google/research/pubs/pub48035)
 
 <!-- 
 * `TVM: An Automated End-to-End Optimizing Compiler for Deep Learning <papers/tvm.pdf>`_
