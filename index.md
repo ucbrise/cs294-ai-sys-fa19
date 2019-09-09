@@ -97,6 +97,18 @@ This lecture will be an overview of the class, requirements, and an introduction
 
 * Lecture slides: [[pdf](assets/lectures/lec01/01_ai-sys-intro-small.pdf), [pptx](assets/lectures/lec01/01_ai-sys-intro.pptx)]
 
+<div class="reading">
+<div class="optional_reading" markdown="1">
+
+* [How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) provides some pretty good advice on how to read papers effectively.
+* Timothy Roscoe's [writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) will also help you in the reviewing process.
+
+</div>
+</div>
+
+
+
+
 
 
 {% include syllabus_entry %}
