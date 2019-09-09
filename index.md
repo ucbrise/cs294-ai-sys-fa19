@@ -178,6 +178,7 @@ Add more discussion
 This lecture will discuss the machine learning life-cycle, spanning model development, training, and serving.  It will outline some of the technical machine learning and systems challenges at each stage and how these challenges interact.
 
 * Lecture slides: [[pdf](assets/lectures/lec03/03_ml-lifecycle.pdf), [pptx](assets/lectures/lec03/03_ml-lifecycle.pptx)]
+* Template Slide Format for PC Meeting [[Google Drive](https://docs.google.com/presentation/d/1bxGL9cQziVhGQzhq-rBXxuYnuP3745Ye3PRg_1QZj3I/edit?usp=sharing)]
 
 
 {% include syllabus_entry %}
@@ -185,6 +186,7 @@ This lecture will discuss the machine learning life-cycle, spanning model develo
 
 
 * [Submit your review](https://forms.gle/uRfHTWH86dee2WTd7) before 1:00PM.
+* [Slides for PC Meeting]() coming soon. (These slides will only be accessible to students enrolled in the class.)
 
 
 <div class="reading">
