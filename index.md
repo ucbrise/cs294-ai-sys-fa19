@@ -228,7 +228,7 @@ In the previous lecture we saw that data and feature engineering is often the do
 
 
 * Lecture slides: [[pdf](assets/lectures/lec04/04_learning_in_dbms.pdf), [pptx](assets/lectures/lec04/04_learning_in_dbms.pptx)]
-
+* Project Proposal [Sign-up doc](https://docs.google.com/document/d/1cEQ-rzsrSsdqa9dzcSuGCppxgN96eIuYT7AjpXrDqpo/edit#).  You must be enrolled in the class or on the waitlist to access this document.  Please add any projects you are thinking about starting and list yourself as interested in anyone else's projects.
 
 {% include syllabus_entry %}
 ## Discussion of Database Systems and Machine Learning
