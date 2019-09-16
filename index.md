@@ -186,7 +186,7 @@ This lecture will discuss the machine learning life-cycle, spanning model develo
 
 
 * [Submit your review](https://forms.gle/uRfHTWH86dee2WTd7) before 1:00PM.
-* [Slides for PC Meeting]() coming soon. (These slides will only be accessible to students enrolled in the class.)
+* [Slides for PC Meeting](https://docs.google.com/presentation/d/1s9x1fFcrUG0v-kQYtgG-yb0uaml-RuXQtb4g5lye-6o/edit#slide=id.p1). (These slides will only be accessible to students enrolled in the class.)
 
 
 <div class="reading">
@@ -224,6 +224,10 @@ Lifecycle](https://rlnsanz.github.io/dat/Flor_CMI_18_CameraReady.pdf)
 {% include syllabus_entry %}
 ## Database Systems and Machine Learning
 
+In the previous lecture we saw that data and feature engineering is often the dominant hurtle in model development.  Database systems are often the source of data and the platform in which feature engineering takes place.  This lecture will cover some of the big ideas is database systems and how they relate to work on machine learning in databases.  
+
+
+* Lecture slides: [[pdf](assets/lectures/lec04/04_learning_in_dbms.pdf), [pptx](assets/lectures/lec04/04_learning_in_dbms.pptx)]
 
 
 {% include syllabus_entry %}
