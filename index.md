@@ -234,6 +234,9 @@ In the previous lecture we saw that data and feature engineering is often the do
 ## Discussion of Database Systems and Machine Learning
 
 
+* [Submit your review](https://forms.gle/BczjSGufNCoDekhp9) before 1:00PM.
+* [Slides for PC Meeting]() coming soon. (These slides will only be accessible to students enrolled in the class.)
+
 <div class="reading">
 <div class="required_reading" markdown="1">
 
