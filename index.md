@@ -186,7 +186,9 @@ This lecture will discuss the machine learning life-cycle, spanning model develo
 
 
 * [Submit your review](https://forms.gle/uRfHTWH86dee2WTd7) before 1:00PM.
-* [Slides for PC Meeting](https://docs.google.com/presentation/d/1s9x1fFcrUG0v-kQYtgG-yb0uaml-RuXQtb4g5lye-6o/edit#slide=id.p1). (These slides will only be accessible to students enrolled in the class.)
+* [Slides](https://docs.google.com/presentation/d/1s9x1fFcrUG0v-kQYtgG-yb0uaml-RuXQtb4g5lye-6o/edit#slide=id.p1) and [scribe notes](https://docs.google.com/document/d/1EoPWoTk3xb2Ii8tHdF9VIO3agMdvcGxhxcYcPfDbfFw/edit#heading=h.jfzr5y8bvswe) from the PC Meeting.
+(These are only accessible to students enrolled in the class.)
+
 
 
 <div class="reading">
@@ -275,7 +277,7 @@ This week we will discuss recent development in model development and training f
 {% include syllabus_entry %}
 ## Discussion of Model Development and Training Frameworks
 
-*Update:* Two of the readings were changed to reflect a focus on deep learning frameworks. The previous readings on SystemML and Keystone have been moved to optional reading. 
+_Update:_ Two of the readings were changed to reflect a focus on deep learning frameworks. The previous readings on SystemML and KeystoneML have been moved to optional reading. 
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -571,10 +573,10 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 # (12/9) RRR Week
 
 {% include syllabus_entry %}
-# (12/6) Exams
+# (12/16) Poster Presentations (proposed change)
 
 {% include syllabus_entry %}
-# (12/16) Poster Presentation
+# (12/20) Original Poster Session
 
 
 
