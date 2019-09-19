@@ -280,8 +280,8 @@ This week we will discuss recent development in model development and training f
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [TensorFlow: A System for Large-Scale Machine Learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
 * [Automatic differentiation in ML: Where we are and where we should be going](Automatic differentiation in ML: Where we are and where we should be going)
+* [TensorFlow: A System for Large-Scale Machine Learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
 * [JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs](https://arxiv.org/pdf/1812.01329.pdf)
 
 </div>
