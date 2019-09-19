@@ -268,26 +268,33 @@ In the previous lecture we saw that data and feature engineering is often the do
 {% include syllabus_entry %}
 ## Model Development and Training Frameworks
 
+This week we will discuss recent development in model development and training frameworks.  While there is a long history of machine learning frameworks we will focus on frameworks for deep learning in the reading.
+
 
 
 {% include syllabus_entry %}
 ## Discussion of Model Development and Training Frameworks
 
+*Update:* Two of the readings were changed to reflect a focus on deep learning frameworks. The previous readings on SystemML and Keystone have been moved to optional reading. 
+
 <div class="reading">
 <div class="required_reading" markdown="1">
 
 * [TensorFlow: A System for Large-Scale Machine Learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
-* [KeystoneML: Optimizing Pipelines for Large-Scale
-Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
-* [SystemML: Declarative Machine Learning on Spark](http://www.vldb.org/pvldb/vol9/p1425-boehm.pdf)
+* [Automatic differentiation in ML: Where we are and where we should be going](Automatic differentiation in ML: Where we are and where we should be going)
+* [JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs](https://arxiv.org/pdf/1812.01329.pdf)
 
 </div>
 <div class="optional_reading" markdown="1">
 
+* [KeystoneML: Optimizing Pipelines for Large-Scale
+Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
+* [SystemML: Declarative Machine Learning on Spark](http://www.vldb.org/pvldb/vol9/p1425-boehm.pdf)
 * [Caffe: Convolutional Architecture for Fast Feature Embedding](https://arxiv.org/pdf/1408.5093.pdf)
 * [Theano: A Python Framework for Fast Computation of Mathematical Expressions](https://arxiv.org/pdf/1605.02688.pdf)
 * [cuDNN: Efficient Primitives for Deep Learning](https://arxiv.org/pdf/1410.0759.pdf)
 * [Roger Grosse's Lecture Notes on Automatic Differentiation](http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/readings/L06%20Automatic%20Differentiation.pdf)
+* [A Differentiable Programming System to Bridge Machine Learning and Scientific Computing](https://arxiv.org/pdf/1907.07587.pdf)
 
 </div>
 </div>
