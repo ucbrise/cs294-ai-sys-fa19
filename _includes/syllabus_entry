@@ -18,13 +18,13 @@
 {% if lecture_counter == 1 %}
 <tr style="border-top: solid thick;">
     <td style="background:gray; color:white; font-size:16pt; vertical-align:middle;" id="week_{{week}}"> 
-    <center>{{ week }}</center> 
+    <center><a href="#week_{{ week }}" style="color:white">{{ week }}</a></center> 
     </td>
 {% else %}
 {% if odd_lecture == 0 %}
 <tr style="border-top: solid thick;">
     <td rowspan="2" style="background:gray; color:white; font-size:16pt; vertical-align:middle;" id="week_{{week}}"> 
-    <center>{{ week }}</center> 
+    <center><a href="#week_{{ week }}" style="color:white">{{ week }}</a></center> 
     </td>
 {% else %}
 <tr>
@@ -34,7 +34,7 @@
 
 <th id="counter_{{lecture_date}}_{{week}}"> 
 {{ lecture_date }} <br/>
-( {{ lecture_counter }} )
+( <a href="#counter_{{lecture_date}}_{{week}}" style="color:black">{{ lecture_counter }}</a> )
 </th>
 {% assign lecture_counter = lecture_counter | plus: 1 %} 
 <td markdown="1">
