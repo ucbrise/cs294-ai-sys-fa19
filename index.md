@@ -268,14 +268,15 @@ In the previous lecture we saw that data and feature engineering is often the do
 
 
 {% include syllabus_entry %}
-## Model Development and Training Frameworks
+## Machine Learning Frameworks and Automatic Differentiation
 
-This week we will discuss recent development in model development and training frameworks.  While there is a long history of machine learning frameworks we will focus on frameworks for deep learning in the reading.
+This week we will discuss recent development in model development and training frameworks.  While there is a long history of machine learning frameworks we will focus on frameworks for deep learning and automatic differentiation. In class we will review some of the big trends in machine learning framework design and basic ideas in forward and backward automatic differentiation.
 
+If you are doing research in this area I recommend also looking at the optional reading.  
 
 
 {% include syllabus_entry %}
-## Discussion of Model Development and Training Frameworks
+## Machine Learning Frameworks and Automatic Differentiation
 
 _Update:_ Two of the readings were changed to reflect a focus on deep learning frameworks. The previous readings on SystemML and KeystoneML have been moved to optional reading. 
 
@@ -289,14 +290,25 @@ _Update:_ Two of the readings were changed to reflect a focus on deep learning f
 </div>
 <div class="optional_reading" markdown="1">
 
+### Pipeline Training Frameworks (Classical)
 * [KeystoneML: Optimizing Pipelines for Large-Scale
 Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 * [SystemML: Declarative Machine Learning on Spark](http://www.vldb.org/pvldb/vol9/p1425-boehm.pdf)
-* [Caffe: Convolutional Architecture for Fast Feature Embedding](https://arxiv.org/pdf/1408.5093.pdf)
-* [Theano: A Python Framework for Fast Computation of Mathematical Expressions](https://arxiv.org/pdf/1605.02688.pdf)
-* [cuDNN: Efficient Primitives for Deep Learning](https://arxiv.org/pdf/1410.0759.pdf)
+
+### Automatic Differentiation and Differentiable Programming
+* [Automatic Differentiation in Machine Learning: a Survey](http://www.jmlr.org/papers/volume18/17-468/17-468.pdf)
 * [Roger Grosse's Lecture Notes on Automatic Differentiation](http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/readings/L06%20Automatic%20Differentiation.pdf)
 * [A Differentiable Programming System to Bridge Machine Learning and Scientific Computing](https://arxiv.org/pdf/1907.07587.pdf)
+
+
+### Deep Learning Frameworks with Automatic Differentiation
+* [Caffe: Convolutional Architecture for Fast Feature Embedding](https://arxiv.org/pdf/1408.5093.pdf)
+* [Theano: A Python Framework for Fast Computation of Mathematical Expressions](https://arxiv.org/pdf/1605.02688.pdf)
+* [Automatic differentiation in PyTorch](https://openreview.net/pdf?id=BJJsrmfCZ)
+
+### Deep Learning Primitives
+* [cuDNN: Efficient Primitives for Deep Learning](https://arxiv.org/pdf/1410.0759.pdf)
+
 
 </div>
 </div>
