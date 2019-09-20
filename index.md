@@ -282,7 +282,7 @@ _Update:_ Two of the readings were changed to reflect a focus on deep learning f
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Automatic differentiation in ML: Where we are and where we should be going](Automatic differentiation in ML: Where we are and where we should be going)
+* [Automatic differentiation in ML: Where we are and where we should be going](https://papers.nips.cc/paper/8092-automatic-differentiation-in-ml-where-we-are-and-where-we-should-be-going)
 * [TensorFlow: A System for Large-Scale Machine Learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
 * [JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs](https://arxiv.org/pdf/1812.01329.pdf)
 
