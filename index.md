@@ -250,8 +250,7 @@ In the previous lecture we saw that data and feature engineering is often the do
 </div>
 <div class="optional_reading" markdown="1">
 
-* [Learning Linear Regression Models over Factorized Joins](Learning Linear Regression Models over Factorized Joins
-)
+* [Learning Linear Regression Models over Factorized Joins](http://www.cs.ox.ac.uk/dan.olteanu/papers/soc-sigmod16.pdf)
 * [MauveDB: Supporting Model-based User Views in Database Systems](http://db.csail.mit.edu/pubs/sigmod06-mauvedb.pdf)
 
 </div>
