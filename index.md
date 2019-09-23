@@ -302,8 +302,11 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 
 ### Deep Learning Frameworks with Automatic Differentiation
 * [Caffe: Convolutional Architecture for Fast Feature Embedding](https://arxiv.org/pdf/1408.5093.pdf)
-* [Theano: A Python Framework for Fast Computation of Mathematical Expressions](https://arxiv.org/pdf/1605.02688.pdf)
+* [Theano: A Python Framework for Fast Computation of Mathematical Expressions](https://arxiv.org/pdf/1605.02688.pdf) and [Theano: A CPU and GPU Math Compiler in Python](http://www.iro.umontreal.ca/~lisa/pointeurs/theano_scipy2010.pdf)
 * [Automatic differentiation in PyTorch](https://openreview.net/pdf?id=BJJsrmfCZ)
+* [MXNet: A Flexible and Efficient Machine Learning
+Library for Heterogeneous Distributed Systems](https://arxiv.org/pdf/1512.01274.pdf)
+* [TensorFlow Eager: A Multi-Stage, Python-Embedded DSL for Machine Learning](https://arxiv.org/pdf/1903.01855.pdf)
 
 ### Deep Learning Primitives
 * [cuDNN: Efficient Primitives for Deep Learning](https://arxiv.org/pdf/1410.0759.pdf)
