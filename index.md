@@ -237,7 +237,7 @@ In the previous lecture we saw that data and feature engineering is often the do
 
 
 * [Submit your review](https://forms.gle/BczjSGufNCoDekhp9) before 1:00PM.
-* [Slides for PC Meeting]() coming soon. (These slides will only be accessible to students enrolled in the class.)
+* [Slides for PC Meeting](https://docs.google.com/presentation/d/1XCx2xBaaHgpAWAXpyTVwX16caMF3TZl6eWrKKTnNPRA/edit#slide=id.p1) posted. (These slides will only be accessible to students enrolled in the class.)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -252,6 +252,7 @@ In the previous lecture we saw that data and feature engineering is often the do
 
 * [Learning Linear Regression Models over Factorized Joins](http://www.cs.ox.ac.uk/dan.olteanu/papers/soc-sigmod16.pdf)
 * [MauveDB: Supporting Model-based User Views in Database Systems](http://db.csail.mit.edu/pubs/sigmod06-mauvedb.pdf)
+* [The MADlib Analytics Library or MAD Skills, the SQL](https://arxiv.org/pdf/1208.4165.pdf)
 
 </div>
 </div>
@@ -271,13 +272,23 @@ In the previous lecture we saw that data and feature engineering is often the do
 
 This week we will discuss recent development in model development and training frameworks.  While there is a long history of machine learning frameworks we will focus on frameworks for deep learning and automatic differentiation. In class we will review some of the big trends in machine learning framework design and basic ideas in forward and backward automatic differentiation.
 
-If you are doing research in this area I recommend also looking at the optional reading.  
+
+* Lecture slides: [[pdf](assets/lectures/lec05/05_deep_learning_frameworks.pdf), [pptx](assets/lectures/lec05/05_deep_learning_frameworks.pptx)]
+
+
+_Project proposals are due next Monday_
 
 
 {% include syllabus_entry %}
 ## Machine Learning Frameworks and Automatic Differentiation
 
 _Update:_ Two of the readings were changed to reflect a focus on deep learning frameworks. The previous readings on SystemML and KeystoneML have been moved to optional reading. 
+
+* [Submit your review](https://forms.gle/PThRMUEReqEut86q6) before 1:00PM.
+* [Slides for PC Meeting]() coming soon. (These slides will only be accessible to students enrolled in the class.)
+
+
+
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -307,6 +318,8 @@ Advanced Analytics](https://shivaram.org/publications/keystoneml-icde17.pdf)
 * [MXNet: A Flexible and Efficient Machine Learning
 Library for Heterogeneous Distributed Systems](https://arxiv.org/pdf/1512.01274.pdf)
 * [TensorFlow Eager: A Multi-Stage, Python-Embedded DSL for Machine Learning](https://arxiv.org/pdf/1903.01855.pdf)
+* [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](https://arxiv.org/pdf/1603.04467.pdf)
+
 
 ### Deep Learning Primitives
 * [cuDNN: Efficient Primitives for Deep Learning](https://arxiv.org/pdf/1410.0759.pdf)
@@ -323,6 +336,9 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/pdf/1512.01274.
 
 {% include syllabus_entry %}
 ## Distributed Model Training
+
+### Project Proposals Due!
+* One Page Project description due at 11:59 PM.  Check out the [suggested projects](https://docs.google.com/document/d/1cEQ-rzsrSsdqa9dzcSuGCppxgN96eIuYT7AjpXrDqpo/edit#).  Email a one page Google document containing your project descriptions to <a href="mailto:jegonzal@berkeley.edu">Prof. Gonzalez</a> and <a href="mailto:xinw@berkeley.edu">Xin Wang (project TA)</a>.
 
 
 
