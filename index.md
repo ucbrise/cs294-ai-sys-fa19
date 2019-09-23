@@ -338,7 +338,7 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/pdf/1512.01274.
 ## Distributed Model Training
 
 ### Project Proposals Due!
-* One Page Project description due at 11:59 PM.  Check out the [suggested projects](https://docs.google.com/document/d/1cEQ-rzsrSsdqa9dzcSuGCppxgN96eIuYT7AjpXrDqpo/edit#).  Email a one page Google document containing your project descriptions to <a href="mailto:jegonzal@berkeley.edu">Prof. Gonzalez</a> and <a href="mailto:xinw@berkeley.edu">Xin Wang (project TA)</a>.
+* One Page Project description due at 11:59 PM.  Check out the [suggested projects](https://docs.google.com/document/d/1cEQ-rzsrSsdqa9dzcSuGCppxgN96eIuYT7AjpXrDqpo/edit#).  Submit a link to your one page Google document containing your project descriptions [to this google form](https://forms.gle/buSyKy7anciNgLqNA).  You only need one submission per team but please list all the team member's email addresses.  You can also update your submission if needed.
 
 
 
