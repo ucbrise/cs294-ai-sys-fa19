@@ -350,16 +350,19 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/pdf/1512.01274.
 <div class="required_reading" markdown="1">
 
 * [Scaling Distributed Machine Learning with the Parameter Server](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf)
-* [Scaling Distributed Machine Learning with In-Network Aggregation](https://arxiv.org/pdf/1903.06701.pdf)
+* [PipeDream: Generalized Pipeline Parallelism for DNN Training](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf)
 * [Adaptive Communication Strategies to Achieve the Best Error-Runtime Trade-off in Local-Update SGD](https://arxiv.org/pdf/1810.08313.pdf) 
 
 
 </div>
 <div class="optional_reading" markdown="1">
 
+* [Demystifying Parallel and Distributed Deep Learning: An
+In-Depth Concurrency Analysis](https://arxiv.org/pdf/1802.09941.pdf)
 * [Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf)[[pdf](assets/lectures/lec17/hogwild_final.pdf)]
 * [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677)
 * [Large Scale Distributed Deep Networks](https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf)
+* [Scaling Distributed Machine Learning with In-Network Aggregation](https://arxiv.org/pdf/1903.06701.pdf)
 
 
 </div>
