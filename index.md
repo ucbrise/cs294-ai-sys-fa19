@@ -359,10 +359,25 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/pdf/1512.01274.
 
 * [Demystifying Parallel and Distributed Deep Learning: An
 In-Depth Concurrency Analysis](https://arxiv.org/pdf/1802.09941.pdf)
+* [Effect of batch size on training dynamics](https://medium.com/mini-distill/effect-of-batch-size-on-training-dynamics-21c14f7a716e)
+* [Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training](https://openreview.net/pdf?id=SkhQHMW0W)
 * [Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf)[[pdf](assets/lectures/lec17/hogwild_final.pdf)]
-* [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677)
 * [Large Scale Distributed Deep Networks](https://static.googleusercontent.com/media/research.google.com/en//archive/large_deep_networks_nips2012.pdf)
 * [Scaling Distributed Machine Learning with In-Network Aggregation](https://arxiv.org/pdf/1903.06701.pdf)
+
+### ImageNet in X Minutes
+* [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677)
+* [Now anyone can train Imagenet in 18 minutes](https://www.fast.ai/2018/08/10/fastai-diu-imagenet/)
+* [Highly Scalable Deep Learning Training System with
+Mixed-Precision: Training ImageNet in Four Minutes](https://arxiv.org/pdf/1807.11205.pdf)
+
+
+### All-Reduce
+* [Baidu Ring All-Reduce Blog Post ](http://andrew.gibiansky.com/blog/machine-learning/baidu-allreduce/)
+* The original Ring All-Reduce Paper ["Bandwidth Optimal All-reduce Algorithms for Clusters of Workstations"](https://www.cs.fsu.edu/~xyuan/paper/09jpdc.pdf)
+* [Visual intuition on ring-Allreduce for distributed Deep Learning](https://towardsdatascience.com/visual-intuition-on-ring-allreduce-for-distributed-deep-learning-d1f34b4911da)
+* [Double Binary Trees](https://devblogs.nvidia.com/massively-scale-deep-learning-training-nccl-2-4/#ref6)
+
 
 
 </div>
