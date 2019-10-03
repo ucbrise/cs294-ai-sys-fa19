@@ -285,7 +285,7 @@ _Project proposals are due next Monday_
 _Update:_ Two of the readings were changed to reflect a focus on deep learning frameworks. The previous readings on SystemML and KeystoneML have been moved to optional reading. 
 
 * [Submit your review](https://forms.gle/PThRMUEReqEut86q6) before 1:00PM.
-* [Slides for PC Meeting]() coming soon. (These slides will only be accessible to students enrolled in the class.)
+* [Slides for PC Meeting](https://docs.google.com/presentation/d/10bqrri3CbX6eaqdzRQDGU-yJAVyLLVYVh3k93DwXexw/edit#slide=id.p1) ] These slides will only be accessible to students enrolled in the class.
 
 
 
@@ -337,6 +337,12 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/pdf/1512.01274.
 {% include syllabus_entry %}
 ## Distributed Model Training
 
+
+This week we will discuss developments in distributed training.  We will quickly review the statistical query model pushed by early map-reduce machine learning frameworks and then discuss advances in parameter servers and distributed neural network training.
+
+* Lecture slides: [[pdf](assets/lectures/lec06/06_distributed_training.pdf), [pptx](assets/lectures/lec06/06_distributed_training.pptx)]
+
+
 ### Project Proposals Due!
 * One Page Project description due at 11:59 PM.  Check out the [suggested projects](https://docs.google.com/document/d/1cEQ-rzsrSsdqa9dzcSuGCppxgN96eIuYT7AjpXrDqpo/edit#).  Submit a link to your one page Google document containing your project descriptions [to this google form](https://forms.gle/buSyKy7anciNgLqNA).  You only need one submission per team but please list all the team member's email addresses.  You can also update your submission if needed.
 
@@ -344,6 +350,11 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/pdf/1512.01274.
 
 {% include syllabus_entry %}
 ## Discussion of Distributed Model Training
+
+
+* [Submit your review](https://forms.gle/foiDoWZs1cRqqnhF7) before 1:00PM.
+* [Slides for PC Meeting](https://docs.google.com/presentation/d/1lGq3nljQqKffqAoLJt8GXQ-fsmTIT_UVmtGzQ2LZJM0/edit#slide=id.p1) coming soon. (These slides will only be accessible to students enrolled in the class.)
+
 
 
 <div class="reading">
