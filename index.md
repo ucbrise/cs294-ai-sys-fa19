@@ -359,6 +359,7 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/pdf/1512.01274.
 
 * [Demystifying Parallel and Distributed Deep Learning: An
 In-Depth Concurrency Analysis](https://arxiv.org/pdf/1802.09941.pdf)
+* [Integrated Model, Batch, and Domain Parallelism in Training Neural Networks](https://arxiv.org/pdf/1712.04432.pdf)
 * [Effect of batch size on training dynamics](https://medium.com/mini-distill/effect-of-batch-size-on-training-dynamics-21c14f7a716e)
 * [Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training](https://openreview.net/pdf?id=SkhQHMW0W)
 * [Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](https://people.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf)[[pdf](assets/lectures/lec17/hogwild_final.pdf)]
