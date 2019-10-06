@@ -425,10 +425,19 @@ Until recently, much of the focus on systems research was aimed at model trainin
 
 The [Prediction-Serving Systems: What happens when we wish to actually deploy a machine learning model to production?](https://queue.acm.org/detail.cfm?id=3210557) ACM Queue article provides a nice overview.
 
+#### Systems Reading:
+
 * [LASER: A Scalable Response Prediction Platform For Online Advertising](https://dorx.me/papers/p173-agarwal.pdf)
 * [TensorFlow-Serving: Flexible, High-Performance ML Serving](https://arxiv.org/abs/1712.06139)
 * [Clipper: A Low-Latency Online Prediction Serving System](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-crankshaw.pdf)
 * [Deep Learning Inference in Facebook Data Centers: Characterization, Performance Optimizations and Hardware Implications](https://arxiv.org/abs/1811.09886)
+* [The Missing Piece in Complex Analytics: Low Latency, Scalable Model Management and Serving with Velox](http://arxiv.org/abs/1409.3809)
+* [The Case for Predictive Database Systems: Opportunities and Challenges](http://cidrdb.org/cidr2011/Papers/CIDR11_Paper20.pdf). 
+
+#### More Efficient Models:
+
+* Paul Viola and Michael Jones [Rapid Object Detection using a Boosted Cascade of Simple Features](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf) CVPR 2001. 
+
 
 </div>
 </div>
