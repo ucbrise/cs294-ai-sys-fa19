@@ -405,7 +405,7 @@ Mixed-Precision: Training ImageNet in Four Minutes](https://arxiv.org/pdf/1807.1
 {% include syllabus_entry %}
 ## Prediction Serving
 
-
+Until recently, much of the focus on systems research was aimed at model training.  However, recently there has been a growing interest in addressing the challenges of prediction serving.  This lecture will frame the challenges of prediction serving and cover some of the recent advances. 
 
 
 {% include syllabus_entry %}
@@ -415,7 +415,7 @@ Mixed-Precision: Training ImageNet in Four Minutes](https://arxiv.org/pdf/1807.1
 <div class="required_reading" markdown="1">
 
 * [TensorFlow-Serving: Flexible, High-Performance ML Serving](https://arxiv.org/abs/1712.06139)
-* [InferLine: ML Inference Pipeline Composition Framework](https://arxiv.org/pdf/1812.01776.pdf)
+* [InferLine: ML Inference Pipeline Composition Framework](assets/preprint/inferline_draft.pdf)
 * [Pretzel: Opening the Black Box of Machine Learning Prediction Serving Systems](https://www.usenix.org/system/files/osdi18-lee.pdf)
 
 
