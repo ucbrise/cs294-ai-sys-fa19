@@ -95,7 +95,7 @@ This is a tentative schedule.  Specific readings are subject to change as new ma
 
 This lecture will be an overview of the class, requirements, and an introduction to the history of machine learning and systems research. 
 
-* Lecture slides: [[pdf](assets/lectures/lec01/01_ai-sys-intro-small.pdf), [pptx](assets/lectures/lec01/01_ai-sys-intro.pptx)]
+* Lecture slides: [[pdf](assets/lectures/lec01/01_ai-sys-intro-small.pdf), [pptx](https://github.com/ucbrise/cs294-ai-sys-fa19/raw/master/assets/lectures/lec01/01_ai-sys-intro.pptx)]
 
 <div class="reading">
 <div class="optional_reading" markdown="1">
@@ -127,7 +127,7 @@ There will be no class but please [sign-up](https://docs.google.com/spreadsheets
 
 
 * [Submit your review](https://forms.gle/t6roBpS2QVPXn4zt6) before 1:00PM.
-* Lecture slides: [[pdf](assets/lectures/lec02/02_ai-sys-big-ideas_v2.pdf), [pptx](assets/lectures/lec02/02_ai-sys-big-ideas_v2.pptx)]
+* Lecture slides: [[pdf](assets/lectures/lec02/02_ai-sys-big-ideas_v2.pdf), [pptx](https://github.com/ucbrise/cs294-ai-sys-fa19/raw/master/assets/lectures/lec02/02_ai-sys-big-ideas_v2.pptx)]
 
 
 <!-- <div class="details" markdown="1"> 
@@ -177,7 +177,7 @@ Add more discussion
 
 This lecture will discuss the machine learning life-cycle, spanning model development, training, and serving.  It will outline some of the technical machine learning and systems challenges at each stage and how these challenges interact.
 
-* Lecture slides: [[pdf](assets/lectures/lec03/03_ml-lifecycle.pdf), [pptx](assets/lectures/lec03/03_ml-lifecycle.pptx)]
+* Lecture slides: [[pdf](assets/lectures/lec03/03_ml-lifecycle.pdf), [pptx](https://github.com/ucbrise/cs294-ai-sys-fa19/raw/master/assets/lectures/lec03/03_ml-lifecycle.pptx)]
 * Template Slide Format for PC Meeting [[Google Drive](https://docs.google.com/presentation/d/1bxGL9cQziVhGQzhq-rBXxuYnuP3745Ye3PRg_1QZj3I/edit?usp=sharing)]
 
 
@@ -229,7 +229,7 @@ Lifecycle](https://rlnsanz.github.io/dat/Flor_CMI_18_CameraReady.pdf)
 In the previous lecture we saw that data and feature engineering is often the dominant hurtle in model development.  Database systems are often the source of data and the platform in which feature engineering takes place.  This lecture will cover some of the big ideas is database systems and how they relate to work on machine learning in databases.  
 
 
-* Lecture slides: [[pdf](assets/lectures/lec04/04_learning_in_dbms.pdf), [pptx](assets/lectures/lec04/04_learning_in_dbms.pptx)]
+* Lecture slides: [[pdf](assets/lectures/lec04/04_learning_in_dbms.pdf), [pptx](https://github.com/ucbrise/cs294-ai-sys-fa19/raw/master/assets/lectures/lec04/04_learning_in_dbms.pptx)]
 * Project Proposal [Sign-up doc](https://docs.google.com/document/d/1cEQ-rzsrSsdqa9dzcSuGCppxgN96eIuYT7AjpXrDqpo/edit#).  You must be enrolled in the class or on the waitlist to access this document.  Please add any projects you are thinking about starting and list yourself as interested in anyone else's projects.
 
 {% include syllabus_entry %}
@@ -273,7 +273,7 @@ In the previous lecture we saw that data and feature engineering is often the do
 This week we will discuss recent development in model development and training frameworks.  While there is a long history of machine learning frameworks we will focus on frameworks for deep learning and automatic differentiation. In class we will review some of the big trends in machine learning framework design and basic ideas in forward and backward automatic differentiation.
 
 
-* Lecture slides: [[pdf](assets/lectures/lec05/05_deep_learning_frameworks.pdf), [pptx](assets/lectures/lec05/05_deep_learning_frameworks.pptx)]
+* Lecture slides: [[pdf](assets/lectures/lec05/05_deep_learning_frameworks.pdf), [pptx](https://github.com/ucbrise/cs294-ai-sys-fa19/raw/master/assets/lectures/lec05/05_deep_learning_frameworks.pptx)]
 
 
 _Project proposals are due next Monday_
@@ -340,7 +340,7 @@ Library for Heterogeneous Distributed Systems](https://arxiv.org/pdf/1512.01274.
 
 This week we will discuss developments in distributed training.  We will quickly review the statistical query model pushed by early map-reduce machine learning frameworks and then discuss advances in parameter servers and distributed neural network training.
 
-* Lecture slides: [[pdf](assets/lectures/lec06/06_distributed_training.pdf), [pptx](assets/lectures/lec06/06_distributed_training.pptx)]
+* Lecture slides: [[pdf](assets/lectures/lec06/06_distributed_training.pdf), [pptx](https://github.com/ucbrise/cs294-ai-sys-fa19/raw/master/assets/lectures/lec06/06_distributed_training.pptx)]
 
 
 ### Project Proposals Due!
@@ -408,7 +408,7 @@ Mixed-Precision: Training ImageNet in Four Minutes](https://arxiv.org/pdf/1807.1
 Until recently, much of the focus on systems research was aimed at model training.  However, recently there has been a growing interest in addressing the challenges of prediction serving.  This lecture will frame the challenges of prediction serving and cover some of the recent advances. 
 
 
-* Lecture slides: [[pdf](assets/lectures/lec07/07_prediction-serving.pdf), [pptx](assets/lectures/lec07/07_prediction-serving.pptx)]
+* Lecture slides: [[pdf](assets/lectures/lec07/07_prediction-serving.pdf), [pptx](https://github.com/ucbrise/cs294-ai-sys-fa19/raw/master/assets/lectures/lec07/07_prediction-serving_highres.pptx)]
 
 
 
