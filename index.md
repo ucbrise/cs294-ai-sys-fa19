@@ -408,6 +408,10 @@ Mixed-Precision: Training ImageNet in Four Minutes](https://arxiv.org/pdf/1807.1
 Until recently, much of the focus on systems research was aimed at model training.  However, recently there has been a growing interest in addressing the challenges of prediction serving.  This lecture will frame the challenges of prediction serving and cover some of the recent advances. 
 
 
+* Lecture slides: [[pdf](assets/lectures/lec07/07_prediction-serving.pdf), [pptx](assets/lectures/lec07/07_prediction-serving.pptx)]
+
+
+
 {% include syllabus_entry %}
 ## Discussion on Prediction Serving
 
