@@ -414,11 +414,9 @@ Until recently, much of the focus on systems research was aimed at model trainin
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-
-* [Focus: Querying Large Video Datasets with Low Latency and Low Cost](https://www.usenix.org/system/files/osdi18-hsieh.pdf)
-* [InferLine: ML Inference Pipeline Composition Framework](assets/preprint/inferline_draft.pdf) (pre-print)
 * [Pretzel: Opening the Black Box of Machine Learning Prediction Serving Systems](https://www.usenix.org/system/files/osdi18-lee.pdf)
-
+* [InferLine: ML Inference Pipeline Composition Framework](assets/preprint/inferline_draft.pdf) (pre-print)
+* [Focus: Querying Large Video Datasets with Low Latency and Low Cost](https://www.usenix.org/system/files/osdi18-hsieh.pdf)
 
 </div>
 <div class="optional_reading" markdown="1">
@@ -438,6 +436,8 @@ The [Prediction-Serving Systems: What happens when we wish to actually deploy a 
 
 * Paul Viola and Michael Jones [Rapid Object Detection using a Boosted Cascade of Simple Features](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf) CVPR 2001. 
 
+#### Performance Breakdown of various models
+* [Benchmark Analysis of Representative Deep Neural Network Architectures](https://arxiv.org/pdf/1810.00736.pdf)
 
 </div>
 </div>
