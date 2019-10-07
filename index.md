@@ -415,7 +415,7 @@ Until recently, much of the focus on systems research was aimed at model trainin
 <div class="required_reading" markdown="1">
 
 
-* [Live Video Analytics at Scale with Approximation and Delay-Tolerance](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-zhang.pdf)
+* [Focus: Querying Large Video Datasets with Low Latency and Low Cost](https://www.usenix.org/system/files/osdi18-hsieh.pdf)
 * [InferLine: ML Inference Pipeline Composition Framework](assets/preprint/inferline_draft.pdf) (pre-print)
 * [Pretzel: Opening the Black Box of Machine Learning Prediction Serving Systems](https://www.usenix.org/system/files/osdi18-lee.pdf)
 
@@ -426,7 +426,7 @@ Until recently, much of the focus on systems research was aimed at model trainin
 The [Prediction-Serving Systems: What happens when we wish to actually deploy a machine learning model to production?](https://queue.acm.org/detail.cfm?id=3210557) ACM Queue article provides a nice overview.
 
 #### Systems Reading:
-
+* [Live Video Analytics at Scale with Approximation and Delay-Tolerance](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-zhang.pdf)
 * [LASER: A Scalable Response Prediction Platform For Online Advertising](https://dorx.me/papers/p173-agarwal.pdf)
 * [TensorFlow-Serving: Flexible, High-Performance ML Serving](https://arxiv.org/abs/1712.06139)
 * [Clipper: A Low-Latency Online Prediction Serving System](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-crankshaw.pdf)
