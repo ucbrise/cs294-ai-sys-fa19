@@ -349,7 +349,7 @@ This week we will discuss developments in distributed training.  We will quickly
 
 
 {% include syllabus_entry %}
-## Discussion of Distributed Model Training
+## Discussion on Distributed Model Training
 
 
 * [Submit your review](https://forms.gle/foiDoWZs1cRqqnhF7) before 1:00PM.
@@ -409,7 +409,11 @@ Until recently, much of the focus on systems research was aimed at model trainin
 
 
 {% include syllabus_entry %}
-## Discussion of Prediction Serving
+## Discussion on Prediction Serving
+
+* [Submit your review](https://forms.gle/Fs5HXiM6msjPAEMz8) before 1:00PM.
+* [Slides for PC Meeting](https://docs.google.com/presentation/d/1bT_9e85gmC8i271IpbjFz97eemWYDp3UdyXHG2XGMlM/edit#slide=id.p1) coming soon. (These slides will only be accessible to students enrolled in the class.)
+
 
 <div class="reading">
 <div class="required_reading" markdown="1">
