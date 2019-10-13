@@ -402,6 +402,12 @@ Mixed-Precision: Training ImageNet in Four Minutes](https://arxiv.org/pdf/1807.1
 
 
 
+
+
+
+
+
+
 {% include syllabus_entry %}
 ## Prediction Serving
 
@@ -409,6 +415,16 @@ Until recently, much of the focus on systems research was aimed at model trainin
 
 
 * Lecture slides: [[pdf](assets/lectures/lec07/07_prediction-serving.pdf), [pptx](https://github.com/ucbrise/cs294-ai-sys-fa19/raw/master/assets/lectures/lec07/07_prediction-serving_highres.pptx)]
+
+
+
+{% include syllabus_entry %}
+## Power Outage Related Holiday
+
+Unfortunately, class was canceled and so the PC Meeting has been moved to Monday.   Note that early project presentations are also due next Friday.
+
+
+
 
 
 
@@ -456,14 +472,6 @@ The [Prediction-Serving Systems: What happens when we wish to actually deploy a 
 
 
 
-
-
-
-
-
-
-{% include syllabus_entry %}
-## Application Area: Autonomous Driving
 
 
 
