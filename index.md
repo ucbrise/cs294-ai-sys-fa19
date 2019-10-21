@@ -482,17 +482,32 @@ The [Prediction-Serving Systems: What happens when we wish to actually deploy a 
 {% include syllabus_entry %}
 ## Finish Project Presentations and Start Model Compilation
 
+This week we will explore the process of compiling/optimizing deep neural network computation graphs.  This reading will span both graph level optimization as well as the compilation and optimization of individual tensor operations.  
+
+
+* Lecture slides: [[pdf](assets/lectures/lec08/08_dl_compilers.pdf), [pptx](https://github.com/ucbrise/cs294-ai-sys-fa19/raw/master/assets/lectures/lec08/08_dl_compilers.pptx)]
+
+
+
+
 
 
 {% include syllabus_entry %}
 ## Discussion of Model Compilation
 
 
+
+* [Submit your review](https://forms.gle/pv6FaRfh1NmYYwv76) before 1:00PM.
+* [Slides for PC Meeting](https://docs.google.com/presentation/d/1pkH4LMeCanUqIp3KS_3sJZw5P3_MBtcXB2Ff3mSjiDA/edit#slide=id.p1) coming soon. (These slides will only be accessible to students enrolled in the class.)
+
+
+
+
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://arxiv.org/abs/1802.04799)
 * [Optimizing DNN Computation with Relaxed Graph Substitutions](https://www.sysml.cc/doc/2019/22.pdf)
+* [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://arxiv.org/abs/1802.04799)
 * [Learning to Optimize Halide with Tree Search and Random Programs](https://halide-lang.org/papers/halide_autoscheduler_2019.pdf)
 
 </div>
