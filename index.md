@@ -480,7 +480,8 @@ The [Prediction-Serving Systems: What happens when we wish to actually deploy a 
 
 
 {% include syllabus_entry %}
-## Model Compilation
+## Finish Project Presentations and Start Model Compilation
+
 
 
 {% include syllabus_entry %}
@@ -492,7 +493,7 @@ The [Prediction-Serving Systems: What happens when we wish to actually deploy a 
 
 * [TVM: An Automated End-to-End Optimizing Compiler for Deep Learning](https://arxiv.org/abs/1802.04799)
 * [Optimizing DNN Computation with Relaxed Graph Substitutions](https://www.sysml.cc/doc/2019/22.pdf)
-* [Supporting Very Large Models using Automatic Dataflow Graph Partitioning](https://arxiv.org/pdf/1807.08887.pdf)
+* [Learning to Optimize Halide with Tree Search and Random Programs](https://halide-lang.org/papers/halide_autoscheduler_2019.pdf)
 
 </div>
 <div class="optional_reading" markdown="1">
@@ -500,11 +501,8 @@ The [Prediction-Serving Systems: What happens when we wish to actually deploy a 
 * [Learning to Optimize Tensor Programs](https://arxiv.org/abs/1805.08166): The TVM story is two fold. There's a System for ML story (above paper) and this paper is their the ML for System story.
 * [Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks](http://proceedings.mlr.press/v80/jia18a/jia18a.pdf)
 * [TensorComprehensions](https://arxiv.org/abs/1802.04730)
+* [Supporting Very Large Models using Automatic Dataflow Graph Partitioning](https://arxiv.org/pdf/1807.08887.pdf)
 
-<!-- 
-* `TVM: An Automated End-to-End Optimizing Compiler for Deep Learning <papers/tvm.pdf>`_
-       * `Supporting Very Large Models using Automatic Dataflow Graph Partitioning <papers/tofu.pdf>`_
-       * `Astra: Exploiting Predictability to Optimize Deep Learning <papers/astra.pdf>`_ -->
 
 </div>
 </div>
