@@ -495,8 +495,6 @@ This week we will explore the process of compiling/optimizing deep neural networ
 {% include syllabus_entry %}
 ## Discussion of Model Compilation
 
-
-
 * [Submit your review](https://forms.gle/pv6FaRfh1NmYYwv76) before 1:00PM.
 * [Slides for PC Meeting](https://docs.google.com/presentation/d/1pkH4LMeCanUqIp3KS_3sJZw5P3_MBtcXB2Ff3mSjiDA/edit#slide=id.p1) coming soon. (These slides will only be accessible to students enrolled in the class.)
 
@@ -548,6 +546,7 @@ This week we will explore the process of compiling/optimizing deep neural networ
 <div class="optional_reading" markdown="1">
 
 * [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://arxiv.org/pdf/1703.09039.pdf)
+* A great [spreadsheet analysis](https://docs.google.com/spreadsheets/u/1/d/1xAo6TcSgHdd25EdQ-6GqM0VKbTYu8cWyycgJhHRVIgY/edit?usp=sharing) of the power and performance characteristics of all the publicly available hardware accelerators for deep learning (GPUs, CPU, TPUs).
 
 
 </div>
