@@ -524,11 +524,41 @@ This week we will explore the process of compiling/optimizing deep neural networ
 
 
 
+{% include syllabus_entry %}
+## PG&amp;E and Fire Related Cancellation
+
+Unfortunately, due to the power outage, lecture is canceled today.  To make up for lost lecture(s) and accommodate our guest speakers, we will skip the overview lecture this week and start with the PC meeting on Machine Learning Applied to Systems.  However, this will put a little extra pressure on the neutral presenters to provide additional context.  We will then cover the discussion on machine learning hardware the following Monday.
+
+
+
+
+{% include syllabus_entry %}
+## Discussion of Machine Learning Applied to Systems Day 1
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+
+* [Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/Resource-Central-SOSP17.pdf)
+* [Device Placement Optimization with Reinforcement Learning](https://arxiv.org/pdf/1706.04972.pdf)
+* [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208)
+
+</div>
+<div class="optional_reading" markdown="1">
+
+* [Quasar: Resource-Efficient and QoS-Aware Cluster Management](http://www.csl.cornell.edu/~delimitrou papers/2014.asplos.quasar.pdf)
+
+
+</div>
+</div>
+
+
+
 
 
 {% include syllabus_entry %}
 ## Hardware Acceleration for Machine Learning
 
+This lecture will be presented by [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/) and [Suresh Krishna](https://www.linkedin.com/in/suresh-krishna-793506158) who are experts in processor design as well as low-level optimization of AI for hardware. 
 
 
 {% include syllabus_entry %}
@@ -556,34 +586,6 @@ This week we will explore the process of compiling/optimizing deep neural networ
  
 
 
-
-
-
-{% include syllabus_entry %}
-## Machine Learning Applied to Systems
-
-
-
-
-
-{% include syllabus_entry %}
-## Discussion of Machine Learning Applied to Systems Day 1
-
-<div class="reading">
-<div class="required_reading" markdown="1">
-
-* [Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/Resource-Central-SOSP17.pdf)
-* [Device Placement Optimization with Reinforcement Learning](https://arxiv.org/pdf/1706.04972.pdf)
-* [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208)
-
-</div>
-<div class="optional_reading" markdown="1">
-
-* [Quasar: Resource-Efficient and QoS-Aware Cluster Management](http://www.csl.cornell.edu/~delimitrou papers/2014.asplos.quasar.pdf)
-
-
-</div>
-</div>
 
 
 
