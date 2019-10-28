@@ -535,6 +535,13 @@ Unfortunately, due to the power outage, lecture is canceled today.  To make up f
 {% include syllabus_entry %}
 ## Discussion of Machine Learning Applied to Systems Day 1
 
+
+* [Submit your review](https://forms.gle/6GEdrphbLAamDhCFA) before 1:00PM.
+* [Slides for PC Meeting](https://docs.google.com/presentation/d/1_Ch1N_IaI-cRXwKh5t7AdjeIahcqbriL1aIrLWGxF2E/edit#slide=id.p1) coming soon. (These slides will only be accessible to students enrolled in the class.)
+
+
+
+
 <div class="reading">
 <div class="required_reading" markdown="1">
 
