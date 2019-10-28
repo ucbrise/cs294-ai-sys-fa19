@@ -8,7 +8,7 @@ layout: default
 * **When**: *Mondays and Fridays from 2:00 to 3:30*
 * **Where**: *Soda 310*
 * **Instructor**: [Joseph E. Gonzalez](https://eecs.berkeley.edu/~jegonzal)
-   * **Ofice Hours:** Wednesdays from 3:30 to 4:30 in 773 Soda Hall.
+   * **Office Hours:** Wednesdays from 3:30 to 4:30 in 773 Soda Hall.
 * **Announcements**: [Piazza](https://piazza.com/class/jz1seb32ovq4p2)
 * **Sign-up to Present**: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1EEf58o80eVCgPZmj71oBYRBcSVWsr7OMn9rOx6X9bnY/edit?usp=sharing) Every student should sign-up to present in at least three rows and as different roles each time.  Note that the Backup/Scribe presenter may be asked to fill in for one of the other roles with little notice.
 * **Project Ideas**: Coming soon!
