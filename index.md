@@ -584,6 +584,7 @@ This lecture will be presented by [Kurt Keutzer](https://people.eecs.berkeley.ed
 
 * [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://arxiv.org/pdf/1703.09039.pdf)
 * A great [spreadsheet analysis](https://docs.google.com/spreadsheets/u/1/d/1xAo6TcSgHdd25EdQ-6GqM0VKbTYu8cWyycgJhHRVIgY/edit?usp=sharing) of the power and performance characteristics of all the publicly available hardware accelerators for deep learning (GPUs, CPU, TPUs).
+* Nvidia [post](https://developer.nvidia.com/deep-learning-performance-training-inference) comparing different GPUs across a wide range of networks.
 
 
 </div>
