@@ -8,7 +8,7 @@ layout: default
 * **When**: *Mondays and Fridays from 2:00 to 3:30*
 * **Where**: *Soda 310*
 * **Instructor**: [Joseph E. Gonzalez](https://eecs.berkeley.edu/~jegonzal)
-   * **Ofice Hours:** Wednesdays from 3:30 to 4:30 in 773 Soda Hall.
+   * **Office Hours:** Wednesdays from 4:00 to 5:00 in 773 Soda Hall.
 * **Announcements**: [Piazza](https://piazza.com/class/jz1seb32ovq4p2)
 * **Sign-up to Present**: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1EEf58o80eVCgPZmj71oBYRBcSVWsr7OMn9rOx6X9bnY/edit?usp=sharing) Every student should sign-up to present in at least three rows and as different roles each time.  Note that the Backup/Scribe presenter may be asked to fill in for one of the other roles with little notice.
 * **Project Ideas**: Coming soon!
@@ -565,11 +565,18 @@ Unfortunately, due to the power outage, lecture is canceled today.  To make up f
 {% include syllabus_entry %}
 ## Hardware Acceleration for Machine Learning
 
-This lecture will be presented by [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/) and [Suresh Krishna](https://www.linkedin.com/in/suresh-krishna-793506158) who are experts in processor design as well as low-level optimization of AI for hardware. 
+This lecture will be presented by [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/) and [Suresh Krishna](https://www.linkedin.com/in/suresh-krishna-793506158) who are experts in processor design as well as network and architecture co-design.
+
+
+* Guest lecture slides: [[pdf](assets/lectures/lec08/2019-11-04-1000am-sysml-class-kk.pdf), [pptx](https://github.com/ucbrise/cs294-ai-sys-fa19/raw/master/assets/lectures/lec08/2019-11-04-1000am-sysml-class-kk.pptx)]
+
 
 
 {% include syllabus_entry %}
 ## Discussion Hardware Acceleration for Machine Learning
+
+
+
 
 <div class="reading">
 <div class="required_reading" markdown="1">
