@@ -576,6 +576,11 @@ This lecture will be presented by [Kurt Keutzer](https://people.eecs.berkeley.ed
 ## Discussion Hardware Acceleration for Machine Learning
 
 
+* [Submit your review](https://forms.gle/1TkxN2KKyqL2mWFHA) before 1:00PM.
+* [Slides for PC Meeting](https://docs.google.com/presentation/d/1DsL9kSnKHlFp04vDmT6wEbxlvXsCIpbw8zMnfZaa5mQ/edit#slide=id.p1) coming soon. (These slides will only be accessible to students enrolled in the class.)
+
+
+
 
 
 <div class="reading">
