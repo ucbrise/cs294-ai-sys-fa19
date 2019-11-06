@@ -552,7 +552,7 @@ Unfortunately, due to the power outage, lecture is canceled today.  To make up f
 </div>
 <div class="optional_reading" markdown="1">
 
-* [Quasar: Resource-Efficient and QoS-Aware Cluster Management](http://www.csl.cornell.edu/~delimitrou papers/2014.asplos.quasar.pdf)
+* [Quasar: Resource-Efficient and QoS-Aware Cluster Management](http://www.csl.cornell.edu/~delimitrou/papers/2014.asplos.quasar.pdf)
 
 
 </div>
