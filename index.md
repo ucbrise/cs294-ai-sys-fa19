@@ -11,7 +11,6 @@ layout: default
    * **Office Hours:** Wednesdays from 4:00 to 5:00 in 773 Soda Hall.
 * **Announcements**: [Piazza](https://piazza.com/class/jz1seb32ovq4p2)
 * **Sign-up to Present**: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1EEf58o80eVCgPZmj71oBYRBcSVWsr7OMn9rOx6X9bnY/edit?usp=sharing) Every student should sign-up to present in at least three rows and as different roles each time.  Note that the Backup/Scribe presenter may be asked to fill in for one of the other roles with little notice.
-* **Project Ideas**: Coming soon!
 * If you have reading suggestions please send a pull request to this course website on [Github](https://github.com/ucbrise/cs294-ai-sys-fa19) by modifying the [index.md](https://github.com/ucbrise/cs294-ai-sys-fa19/blob/master/index.md) file.
 
 
@@ -353,7 +352,7 @@ This week we will discuss developments in distributed training.  We will quickly
 
 
 * [Submit your review](https://forms.gle/foiDoWZs1cRqqnhF7) before 1:00PM.
-* [Slides for PC Meeting](https://docs.google.com/presentation/d/1lGq3nljQqKffqAoLJt8GXQ-fsmTIT_UVmtGzQ2LZJM0/edit#slide=id.p1) coming soon. (These slides will only be accessible to students enrolled in the class.)
+* [Slides for PC Meeting](https://docs.google.com/presentation/d/1lGq3nljQqKffqAoLJt8GXQ-fsmTIT_UVmtGzQ2LZJM0/edit#slide=id.p1) (These slides will only be accessible to students enrolled in the class.)
 
 
 
@@ -432,7 +431,7 @@ Unfortunately, class was canceled and so the PC Meeting has been moved to Monday
 ## Discussion on Prediction Serving
 
 * [Submit your review](https://forms.gle/Fs5HXiM6msjPAEMz8) before 1:00PM.
-* [Slides for PC Meeting](https://docs.google.com/presentation/d/1bT_9e85gmC8i271IpbjFz97eemWYDp3UdyXHG2XGMlM/edit#slide=id.p1) coming soon. (These slides will only be accessible to students enrolled in the class.)
+* [Slides for PC Meeting](https://docs.google.com/presentation/d/1bT_9e85gmC8i271IpbjFz97eemWYDp3UdyXHG2XGMlM/edit#slide=id.p1) (These slides will only be accessible to students enrolled in the class.)
 
 
 <div class="reading">
@@ -496,7 +495,7 @@ This week we will explore the process of compiling/optimizing deep neural networ
 ## Discussion of Model Compilation
 
 * [Submit your review](https://forms.gle/pv6FaRfh1NmYYwv76) before 1:00PM.
-* [Slides for PC Meeting](https://docs.google.com/presentation/d/1pkH4LMeCanUqIp3KS_3sJZw5P3_MBtcXB2Ff3mSjiDA/edit#slide=id.p1) coming soon. (These slides will only be accessible to students enrolled in the class.)
+* [Slides for PC Meeting](https://docs.google.com/presentation/d/1pkH4LMeCanUqIp3KS_3sJZw5P3_MBtcXB2Ff3mSjiDA/edit#slide=id.p1) (These slides will only be accessible to students enrolled in the class.)
 
 
 
@@ -537,7 +536,7 @@ Unfortunately, due to the power outage, lecture is canceled today.  To make up f
 
 
 * [Submit your review](https://forms.gle/6GEdrphbLAamDhCFA) before 1:00PM.
-* [Slides for PC Meeting](https://docs.google.com/presentation/d/1_Ch1N_IaI-cRXwKh5t7AdjeIahcqbriL1aIrLWGxF2E/edit#slide=id.p1) coming soon. (These slides will only be accessible to students enrolled in the class.)
+* [Slides for PC Meeting](https://docs.google.com/presentation/d/1_Ch1N_IaI-cRXwKh5t7AdjeIahcqbriL1aIrLWGxF2E/edit#slide=id.p1) (These slides will only be accessible to students enrolled in the class.)
 
 
 
@@ -577,7 +576,7 @@ This lecture will be presented by [Kurt Keutzer](https://people.eecs.berkeley.ed
 
 
 * [Submit your review](https://forms.gle/1TkxN2KKyqL2mWFHA) before 1:00PM.
-* [Slides for PC Meeting](https://docs.google.com/presentation/d/1DsL9kSnKHlFp04vDmT6wEbxlvXsCIpbw8zMnfZaa5mQ/edit#slide=id.p1) coming soon. (These slides will only be accessible to students enrolled in the class.)
+* [Slides for PC Meeting](https://docs.google.com/presentation/d/1DsL9kSnKHlFp04vDmT6wEbxlvXsCIpbw8zMnfZaa5mQ/edit#slide=id.p1) (These slides will only be accessible to students enrolled in the class.)
 
 
 
@@ -618,6 +617,14 @@ This lecture will be presented by [Kurt Keutzer](https://people.eecs.berkeley.ed
 
 {% include syllabus_entry %}
 ## Discussion of Machine Learning Applied to Systems Day 2
+
+
+
+* [Submit your review](https://forms.gle/i4UJfqFNV9376yGZ9) before 1:00PM.
+* [Slides for PC Meeting](https://docs.google.com/presentation/d/1ZAgtOBk3DWCEnFvvsvaXQ2Mu8C32MfGS_zoQhUqQ6xo/edit#slide=id.p1) coming soon. (These slides will only be accessible to students enrolled in the class.)
+
+
+
 
 <div class="reading">
 <div class="required_reading" markdown="1">
