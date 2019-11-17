@@ -667,6 +667,7 @@ This lecture will be presented by [Kurt Keutzer](https://people.eecs.berkeley.ed
 * [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
 * [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
 * [Federated Learning at Google ... A comic strip?](https://federated.withgoogle.com)
+* [SecureML: A System for Scalable Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/396.pdf)
 
 
 </div>
