@@ -655,15 +655,18 @@ This lecture will be presented by [Kurt Keutzer](https://people.eecs.berkeley.ed
 <div class="required_reading" markdown="1">
 
 * [SecureML: A System for Scalable Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/396.pdf)
-* [Rendered Insecure: GPU Side Channel Attacks are Practical](https://www.cs.ucr.edu/~zhiyunq/pub/ccs18_gpu_side_channel.pdf)
+* [Privacy Accounting and Quality Control in the Sage Differentially Private ML Platform](https://arxiv.org/pdf/1909.01502.pdf)  
 * [Gazelle: A Low Latency Framework for Secure Neural Network Inference](https://arxiv.org/abs/1801.05507)
 
 </div>
 <div class="optional_reading" markdown="1">
-   
+
 * [Helen: Maliciously Secure Coopetitive Learning for Linear Models](https://people.eecs.berkeley.edu/~wzheng/helen_ieeesp.pdf)
 * [Faster CryptoNets: Leveraging Sparsity for Real-World Encrypted Inference](https://arxiv.org/abs/1811.09953)
 * [Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware](https://arxiv.org/abs/1806.03287)
+* [Rendered Insecure: GPU Side Channel Attacks are Practical](https://www.cs.ucr.edu/~zhiyunq/pub/ccs18_gpu_side_channel.pdf)
+* [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
+
 
 </div>
 </div>
