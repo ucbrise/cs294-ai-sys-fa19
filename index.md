@@ -666,6 +666,7 @@ This lecture will be presented by [Kurt Keutzer](https://people.eecs.berkeley.ed
 * [Rendered Insecure: GPU Side Channel Attacks are Practical](https://www.cs.ucr.edu/~zhiyunq/pub/ccs18_gpu_side_channel.pdf)
 * [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
 * [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
+* [Federated Learning at Google ... A comic strip?](https://federated.withgoogle.com)
 
 
 </div>
