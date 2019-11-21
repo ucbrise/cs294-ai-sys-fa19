@@ -643,13 +643,25 @@ This lecture will be presented by [Kurt Keutzer](https://people.eecs.berkeley.ed
 
 
 {% include syllabus_entry %}
-## Secure ML
+## Learning with Adversaries
+
+This week we will discuss machine learning in adversarial settings.  This includes secure federated learning, differential privacy, and adversarial examples.
+
+
+* Lecture slides: [[pdf](assets/lectures/lec10/10_adversarial_ml.pdf), [pptx](https://github.com/ucbrise/cs294-ai-sys-fa19/raw/master/assets/lectures/lec10/10_adversarial_ml.pptx)]
+
 
 
 
 
 {% include syllabus_entry %}
-## Discussion on Secure ML
+## Discussion on Learning with Adversaries
+
+
+* [Submit your review](https://forms.gle/fAzS9529uss58Q1q9) before 1:00PM.
+* [Slides for PC Meeting](https://docs.google.com/presentation/d/1J96RDrfxHUC8wyDcthKGrEeYTys9-jKXVlvLnlNmT1Q/edit#slide=id.p1) coming soon. (These slides will only be accessible to students enrolled in the class.)
+
+
 
 <div class="reading">
 <div class="required_reading" markdown="1">
