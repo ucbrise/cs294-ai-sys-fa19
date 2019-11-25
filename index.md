@@ -680,6 +680,7 @@ This week we will discuss machine learning in adversarial settings.  This includ
 * [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
 * [Federated Learning at Google ... A comic strip?](https://federated.withgoogle.com)
 * [SecureML: A System for Scalable Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/396.pdf)
+* More reading coming soon ...
 
 
 </div>
@@ -691,7 +692,11 @@ This week we will discuss machine learning in adversarial settings.  This includ
 
 
 {% include syllabus_entry %}
-## Debugging, Monitoring, and Interpretability   
+## Autonomous Driving
+
+Autonomous vehicles will likely transform society in the next decade and are fundamentally AI enabled systems.  In this lecture we will discuss the AI-Systems challenges around autonomous driving.
+
+
 
 
 
@@ -706,8 +711,32 @@ This week we will discuss machine learning in adversarial settings.  This includ
 
 
 {% include syllabus_entry %}
-## Discussion on Debugging, Monitoring, and Interpretability   
+## Discussion on Autonomous Driving
 
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+
+* [Self-Driving Cars: A Survey](https://arxiv.org/abs/1901.04407).  This is a slightly longer survey so focus more on the overview and framing of the autonomous driving problem and common solutions.  
+* [The Architectural Implications of Autonomous Driving: Constraints and Acceleration](https://web.eecs.umich.edu/~shihclin/papers/AutonomousCar-ASPLOS18.pdf)
+* [ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst](https://arxiv.org/abs/1812.03079)
+
+
+</div>
+<div class="optional_reading" markdown="1">
+
+* [An Open Approach to Autonomous Vehicles](https://ieeexplore.ieee.org/document/7368032 )
+* More coming soon...
+
+### DARPA Grand Challenges
+* [Software Infrastructure for an Autonomous Ground Vehicle](https://www.ri.cmu.edu/pub_files/2008/12/TartanInfrastructure.pdf)
+* [Stanley: The Robot that Won the DARPA Grand Challenge](https://dl.acm.org/citation.cfm?id=1210482)
+* [Tartan Racing: A Multi-Modal Approach to the DARPA Urban Challenge](https://www.ri.cmu.edu/pub_files/2007/4/Tartan_Racing.pdf)
+* [Towards a Viable Autonomous Driving Research Platform](https://www.ri.cmu.edu/pub_files/2013/6/2013_IV_SRX.pdf)
+* [Engineering Autonomous Driving Software](https://arxiv.org/pdf/1409.6579.pdf)
+
+</div>
+</div>
 
 
 {% include syllabus_entry %}
