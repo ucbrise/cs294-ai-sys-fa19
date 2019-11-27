@@ -697,10 +697,11 @@ This week we will discuss machine learning in adversarial settings.  This includ
 Autonomous vehicles will likely transform society in the next decade and are fundamentally AI enabled systems.  In this lecture we will discuss the AI-Systems challenges around autonomous driving.
 
 
+* Lecture slides: [[pdf](assets/lectures/lec11/11_adversarial_ml.pdf), [pptx](https://github.com/ucbrise/cs294-ai-sys-fa19/raw/master/assets/lectures/lec11/11_autonomous_driving.pptx)]
 
 
 
-
+    
 
 
 
@@ -713,11 +714,18 @@ Autonomous vehicles will likely transform society in the next decade and are fun
 {% include syllabus_entry %}
 ## Discussion on Autonomous Driving
 
+Everyone must do one of the readings (you pick).     
+
+
+
+* [Submit your review](https://forms.gle/i47umoVaVSWjV7uL9) before 1:00PM.
+* [Slides for PC Meeting](https://docs.google.com/presentation/d/1kq8nOqVjQAVHIFcLiwqo8oFay0hRXcdLJuZIkabIsb0/edit#slide=id.p1) coming soon. (These slides will only be accessible to students enrolled in the class.)
+
 
 <div class="reading">
 <div class="required_reading" markdown="1">
 
-* [Self-Driving Cars: A Survey](https://arxiv.org/abs/1901.04407).  This is a slightly longer survey so focus more on the overview and framing of the autonomous driving problem and common solutions.  
+* [Self-Driving Cars: A Survey](https://arxiv.org/abs/1901.04407).  This is a slightly longer survey so focus more on the overview and framing first few pages of the autonomous driving problem and common solutions.  
 * [The Architectural Implications of Autonomous Driving: Constraints and Acceleration](https://web.eecs.umich.edu/~shihclin/papers/AutonomousCar-ASPLOS18.pdf)
 * [ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst](https://arxiv.org/abs/1812.03079)
 
@@ -726,7 +734,7 @@ Autonomous vehicles will likely transform society in the next decade and are fun
 <div class="optional_reading" markdown="1">
 
 * [An Open Approach to Autonomous Vehicles](https://ieeexplore.ieee.org/document/7368032 )
-* More coming soon...
+* [End-to-End Learning of Driving Models with Surround-View Cameras and Route Planners](https://arxiv.org/abs/1803.10158)
 
 ### DARPA Grand Challenges
 * [Software Infrastructure for an Autonomous Ground Vehicle](https://www.ri.cmu.edu/pub_files/2008/12/TartanInfrastructure.pdf)
