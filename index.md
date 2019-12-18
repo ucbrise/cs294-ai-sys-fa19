@@ -567,7 +567,7 @@ Unfortunately, due to the power outage, lecture is canceled today.  To make up f
 This lecture will be presented by [Kurt Keutzer](https://people.eecs.berkeley.edu/~keutzer/) and [Suresh Krishna](https://www.linkedin.com/in/suresh-krishna-793506158) who are experts in processor design as well as network and architecture co-design.
 
 
-* Guest lecture slides: [[pdf](assets/lectures/lec08/2019-11-04-1000am-sysml-class-kk.pdf), [pptx](https://github.com/ucbrise/cs294-ai-sys-fa19/raw/master/assets/lectures/lec08/2019-11-04-1000am-sysml-class-kk.pptx)]
+* Guest lecture slides: [[pdf](assets/lectures/lec09/2019-11-04-1000am-sysml-class-kk.pdf), [pptx](https://github.com/ucbrise/cs294-ai-sys-fa19/raw/master/assets/lectures/lec09/2019-11-04-1000am-sysml-class-kk.pptx)]
 
 
 
