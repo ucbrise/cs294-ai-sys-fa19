@@ -758,10 +758,21 @@ Everyone must do one of the readings (you pick).
 # (12/9) RRR Week
 
 {% include syllabus_entry %}
-# (12/16) Poster Presentations (proposed change)
+# (12/16) Poster Presentations 
 
 {% include syllabus_entry %}
-# (12/20) Original Poster Session
+# (12/20) No Class
+
+Don't forget to submit your final reports.  As noted on Piazza, the final report should be 6-pages plus references (2-column, 10pt font, unlimited appendix).  Please submit your report using this form:
+
+<center>
+<h3>
+    <a href="https://forms.gle/tLcLeEzRzueFGUcG6">Submit Your Report Here</a>
+</h3>
+</center>
+
+You only need to submit the project once per team.  The write-up should discuss the problem formulation, related work, your approach, and your results.  
+
 
 
 
