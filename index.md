@@ -680,6 +680,7 @@ This week we will discuss machine learning in adversarial settings.  This includ
 * [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
 * [Federated Learning at Google ... A comic strip?](https://federated.withgoogle.com)
 * [SecureML: A System for Scalable Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/396.pdf)
+* [Deep Learning with Differential Privacy](https://arxiv.org/abs/1607.00133) 
 * More reading coming soon ...
 
 
